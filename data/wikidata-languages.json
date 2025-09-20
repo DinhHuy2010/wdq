@@ -1,0 +1,4736 @@
+[
+    {
+        "languageQID": "Q27811",
+        "languageLabel": "Afar",
+        "languageDescription": "Afro-Asiatic language spoken in Ethiopia, Djibouti and Eritrea",
+        "code": "aa"
+    },
+    {
+        "languageQID": "Q5111",
+        "languageLabel": "Abkhaz",
+        "languageDescription": "Northwest Caucasian language native to northwestern Georgia",
+        "code": "ab"
+    },
+    {
+        "languageQID": "Q197936",
+        "languageLabel": "Abenaki",
+        "languageDescription": "Algonquian language",
+        "code": "abe"
+    },
+    {
+        "languageQID": "Q27567",
+        "languageLabel": "Abaza",
+        "languageDescription": "language of the Caucasus mountains in the Russian Karachay–Cherkess Republic by the Abazins",
+        "code": "abq"
+    },
+    {
+        "languageQID": "Q3124354",
+        "languageLabel": "Ambonese",
+        "languageDescription": "creole spoken by the Ambonese ethnic group",
+        "code": "abs"
+    },
+    {
+        "languageQID": "Q27683",
+        "languageLabel": "Acehnese",
+        "languageDescription": "Aceh-Chamic language spoken predominantly by the Acehnese (or Achinese) ethnic group",
+        "code": "ace"
+    },
+    {
+        "languageQID": "Q3006285",
+        "languageLabel": "Saint Lucian Creole",
+        "languageDescription": "language",
+        "code": "acf"
+    },
+    {
+        "languageQID": "Q56232",
+        "languageLabel": "Iraqi Arabic",
+        "languageDescription": "continuum of mutually-intelligible varieties of Arabic",
+        "code": "acm"
+    },
+    {
+        "languageQID": "Q56509",
+        "languageLabel": "Amdo Tibetan",
+        "languageDescription": "Tibetic language of Amdo",
+        "code": "adx"
+    },
+    {
+        "languageQID": "Q27776",
+        "languageLabel": "Adyghe",
+        "languageDescription": "one of the official languages of the Republic of Adygea in Russia",
+        "code": "ady"
+    },
+    {
+        "languageQID": "Q64362980",
+        "languageLabel": "Adyghe in Cyrillic script",
+        "languageDescription": "language expressed in a particular alphabet",
+        "code": "ady-cyrl"
+    },
+    {
+        "languageQID": "Q64362981",
+        "languageLabel": "Tunisian Arabic in Arabic script",
+        "languageDescription": "language expressed in a particular alphabet",
+        "code": "aeb-arab"
+    },
+    {
+        "languageQID": "Q64362982",
+        "languageLabel": "Tunisian Arabic in Latin script",
+        "languageDescription": "language expressed in a particular alphabet",
+        "code": "aeb-latn"
+    },
+    {
+        "languageQID": "Q14196",
+        "languageLabel": "Afrikaans",
+        "languageDescription": "West Germanic language, spoken in South Africa and Namibia",
+        "code": "af"
+    },
+    {
+        "languageQID": "Q269125",
+        "languageLabel": "Proto-Afroasiatic",
+        "languageDescription": "reconstructed ancestor of the Afroasiatic language family",
+        "code": "afa-pro"
+    },
+    {
+        "languageQID": "Q34737",
+        "languageLabel": "Aghem",
+        "languageDescription": "language",
+        "code": "agq"
+    },
+    {
+        "languageQID": "Q27969",
+        "languageLabel": "Ainu",
+        "languageDescription": "language(s) spoken by Ainu ethnic groups in Hokkaido, Kuril and Sakhalin",
+        "code": "ain"
+    },
+    {
+        "languageQID": "Q55633582",
+        "languageLabel": "South Levantine Arabic",
+        "languageDescription": "subdivision of Levantine Arabic",
+        "code": "ajp"
+    },
+    {
+        "languageQID": "Q28026",
+        "languageLabel": "Akan",
+        "languageDescription": "language of Akan lands in Ghana",
+        "code": "ak"
+    },
+    {
+        "languageQID": "Q113819406",
+        "languageLabel": "Akkadian in Latin Script",
+        "languageDescription": "a Latin transliteration for Akkadian text in which a scholar has identified the readings of cuneiform signs as syllables using the Leiden transcription convention",
+        "code": "akk-latn"
+    },
+    {
+        "languageQID": "Q8773",
+        "languageLabel": "Aklanon",
+        "languageDescription": "language spoken in the province of Aklan on the island of Panay in the Philippines",
+        "code": "akl"
+    },
+    {
+        "languageQID": "Q1815020",
+        "languageLabel": "Alabama",
+        "languageDescription": "language spoken by the Alabama-Coushatta tribe",
+        "code": "akz"
+    },
+    {
+        "languageQID": "Q7251834",
+        "languageLabel": "Proto-Algonquian",
+        "languageDescription": "reconstructed ancestor of the Algonquian languages",
+        "code": "alg-pro"
+    },
+    {
+        "languageQID": "Q181037",
+        "languageLabel": "Gheg",
+        "languageDescription": "northern dialect of the Albanian language",
+        "code": "aln"
+    },
+    {
+        "languageQID": "Q131339",
+        "languageLabel": "Alemannic",
+        "languageDescription": "group of dialects of the Upper German branch of the Germanic language family",
+        "code": "als"
+    },
+    {
+        "languageQID": "Q387066",
+        "languageLabel": "Swiss German",
+        "languageDescription": "Alemannic dialects spoken in the German-speaking part of Switzerland",
+        "code": "als"
+    },
+    {
+        "languageQID": "Q1991779",
+        "languageLabel": "Southern Altai",
+        "languageDescription": "Kipchak Turkic language of the Altai Republic, Russia",
+        "code": "alt"
+    },
+    {
+        "languageQID": "Q28244",
+        "languageLabel": "Amharic",
+        "languageDescription": "Semitic language of Ethiopia",
+        "code": "am"
+    },
+    {
+        "languageQID": "Q35132",
+        "languageLabel": "Amis",
+        "languageDescription": "East Formosan language of Taiwan",
+        "code": "ami"
+    },
+    {
+        "languageQID": "Q8765",
+        "languageLabel": "Aragonese",
+        "languageDescription": "Romance language",
+        "code": "an"
+    },
+    {
+        "languageQID": "Q42365",
+        "languageLabel": "Old English",
+        "languageDescription": "earliest historical form of English",
+        "code": "ang"
+    },
+    {
+        "languageQID": "Q28378",
+        "languageLabel": "Angika",
+        "languageDescription": "Bihari language of India and Nepal",
+        "code": "anp"
+    },
+    {
+        "languageQID": "Q10729616",
+        "languageLabel": "Pemon",
+        "languageDescription": "language",
+        "code": "aoc"
+    },
+    {
+        "languageQID": "Q56593",
+        "languageLabel": "Levantine Arabic",
+        "languageDescription": "Arabic variety spoken in the Levant",
+        "code": "apc"
+    },
+    {
+        "languageQID": "Q18389588",
+        "languageLabel": "Proto-Algic",
+        "languageDescription": "reconstructed ancestor of the Algic languages",
+        "code": "aql-pro"
+    },
+    {
+        "languageQID": "Q96400333",
+        "languageLabel": "Proto-Uto-Aztecan",
+        "languageDescription": "reconstructed ancestor of the Uto-Aztecan languages",
+        "code": "aql-pro"
+    },
+    {
+        "languageQID": "Q13955",
+        "languageLabel": "Arabic",
+        "languageDescription": "Semitic language and lingua franca of the Arab world",
+        "code": "ar"
+    },
+    {
+        "languageQID": "Q28602",
+        "languageLabel": "Aramaic",
+        "languageDescription": "Semitic language",
+        "code": "arc"
+    },
+    {
+        "languageQID": "Q33730",
+        "languageLabel": "Mapudungun",
+        "languageDescription": "language spoken in Chile and Argentina by the Mapuche people",
+        "code": "arn"
+    },
+    {
+        "languageQID": "Q56499",
+        "languageLabel": "Algerian Arabic",
+        "languageDescription": "Maghrebi dialect of the Arabic language spoken in Algeria",
+        "code": "arq"
+    },
+    {
+        "languageQID": "Q108055510",
+        "languageLabel": "Belter Creole",
+        "languageDescription": "constructed language created by Nick Farmer for The Expanse",
+        "code": "art-blt"
+    },
+    {
+        "languageQID": "Q686210",
+        "languageLabel": "Black Speech",
+        "languageDescription": "fictional language in the fantasy works of J. R. R. Tolkien",
+        "code": "art-bsp"
+    },
+    {
+        "languageQID": "Q64483808",
+        "languageLabel": "High Valyrian",
+        "languageDescription": "constructed language created for Game of Thrones",
+        "code": "art-vlh"
+    },
+    {
+        "languageQID": "Q56426",
+        "languageLabel": "Moroccan Arabic",
+        "languageDescription": "Maghrebi dialect of the Arabic language spoken in Morocco",
+        "code": "ary"
+    },
+    {
+        "languageQID": "Q29919",
+        "languageLabel": "Egyptian Arabic",
+        "languageDescription": "Arabic dialect spoken in Egypt",
+        "code": "arz"
+    },
+    {
+        "languageQID": "Q29401",
+        "languageLabel": "Assamese",
+        "languageDescription": "Indo-Aryan language spoken in Assam, India",
+        "code": "as"
+    },
+    {
+        "languageQID": "Q14759",
+        "languageLabel": "American Sign Language",
+        "languageDescription": "sign language used predominately in the United States",
+        "code": "ase"
+    },
+    {
+        "languageQID": "Q29507",
+        "languageLabel": "Asturian",
+        "languageDescription": "Romance language of the West Iberian group",
+        "code": "ast"
+    },
+    {
+        "languageQID": "Q104841722",
+        "languageLabel": "Proto-Athabaskan",
+        "languageDescription": "reconstructed ancestor of the Athabaskan languages",
+        "code": "ath-pro"
+    },
+    {
+        "languageQID": "Q56590",
+        "languageLabel": "Atikamekw",
+        "languageDescription": "Algonquian language",
+        "code": "atj"
+    },
+    {
+        "languageQID": "Q29561",
+        "languageLabel": "Avar",
+        "languageDescription": "language belonging to the Avar–Andic group of the Northeast Caucasian language family",
+        "code": "av"
+    },
+    {
+        "languageQID": "Q1377116",
+        "languageLabel": "Kotava",
+        "languageDescription": "international auxiliary language created in 1978",
+        "code": "avk"
+    },
+    {
+        "languageQID": "Q29579",
+        "languageLabel": "Awadhi",
+        "languageDescription": "Indo-Aryan language spoken in Northern India",
+        "code": "awa"
+    },
+    {
+        "languageQID": "Q4627",
+        "languageLabel": "Aymara",
+        "languageDescription": "native language in South America",
+        "code": "ay"
+    },
+    {
+        "languageQID": "Q9292",
+        "languageLabel": "Azerbaijani",
+        "languageDescription": "Oghuz Turkic language",
+        "code": "az"
+    },
+    {
+        "languageQID": "Q3449805",
+        "languageLabel": "South Azerbaijani",
+        "languageDescription": "Turkic language",
+        "code": "azb"
+    },
+    {
+        "languageQID": "Q13389",
+        "languageLabel": "Bashkir",
+        "languageDescription": "Turkic language spoken in Russia",
+        "code": "ba"
+    },
+    {
+        "languageQID": "Q33049",
+        "languageLabel": "Balochi",
+        "languageDescription": "Northwestern Iranian language spoken in Pakistan, Iran and Afghanistan",
+        "code": "bal"
+    },
+    {
+        "languageQID": "Q33070",
+        "languageLabel": "Balinese",
+        "languageDescription": "Malayo-Polynesian language spoken on the island of Bali",
+        "code": "ban"
+    },
+    {
+        "languageQID": "Q29540",
+        "languageLabel": "Bavarian",
+        "languageDescription": "major group of Upper German varieties spoken in the southeast of the German language area Bavaria",
+        "code": "bar"
+    },
+    {
+        "languageQID": "Q4375732",
+        "languageLabel": "Proto-Baltic",
+        "languageDescription": "proto-language of the Baltic language family",
+        "code": "bat-pro"
+    },
+    {
+        "languageQID": "Q213434",
+        "languageLabel": "Samogitian",
+        "languageDescription": "Eastern Baltic variety spoken mostly in Samogitia, in the western part of Lithuania",
+        "code": "bat-smg"
+    },
+    {
+        "languageQID": "Q33017",
+        "languageLabel": "Toba Batak",
+        "languageDescription": "Batak language spoken by the Toba Batak people",
+        "code": "bbc"
+    },
+    {
+        "languageQID": "Q64362983",
+        "languageLabel": "Batak Toba in Latin script",
+        "languageDescription": "language expressed in a particular alphabet",
+        "code": "bbc-latn"
+    },
+    {
+        "languageQID": "Q12634001",
+        "languageLabel": "Southern Balochi",
+        "languageDescription": "group of Balochi dialects",
+        "code": "bcc"
+    },
+    {
+        "languageQID": "Q33284",
+        "languageLabel": "Central Bikol",
+        "languageDescription": "Austronesian language spoken in the Philippines",
+        "code": "bcl"
+    },
+    {
+        "languageQID": "Q2880037",
+        "languageLabel": "West Coast Bajau",
+        "languageDescription": "language spoken in certain areas in Sabah, Malaysia",
+        "code": "bdr"
+    },
+    {
+        "languageQID": "Q122311452",
+        "languageLabel": "Belarusian Wikipedias",
+        "languageDescription": "umbrella term for two separate Belarusian-language Wikipedias (pre-1933 reform Taraškievica [be-tarask], and Narkamaŭka [be], official in modern Belarus) which shared a wiki until the creation of [be-tarask] – \"be-x-old\" redirects to \"be-tarask\"",
+        "code": "be"
+    },
+    {
+        "languageQID": "Q9091",
+        "languageLabel": "Belarusian",
+        "languageDescription": "East Slavic language",
+        "code": "be"
+    },
+    {
+        "languageQID": "Q122311452",
+        "languageLabel": "Belarusian Wikipedias",
+        "languageDescription": "umbrella term for two separate Belarusian-language Wikipedias (pre-1933 reform Taraškievica [be-tarask], and Narkamaŭka [be], official in modern Belarus) which shared a wiki until the creation of [be-tarask] – \"be-x-old\" redirects to \"be-tarask\"",
+        "code": "be-tarask"
+    },
+    {
+        "languageQID": "Q2087886",
+        "languageLabel": "Taraškievica",
+        "languageDescription": "orthography of the Belarusian language",
+        "code": "be-tarask"
+    },
+    {
+        "languageQID": "Q33025",
+        "languageLabel": "Beja",
+        "languageDescription": "Afro-Asiatic language of the southern coast of the Red Sea",
+        "code": "bej"
+    },
+    {
+        "languageQID": "Q33000",
+        "languageLabel": "British Sign Language",
+        "languageDescription": "sign language used in the United Kingdom",
+        "code": "bfi"
+    },
+    {
+        "languageQID": "Q33205",
+        "languageLabel": "Badaga",
+        "languageDescription": "southern Dravidian language (Tamil–Kannada branch) spoken mostly by people in the Nilgiri Hills of Southern India",
+        "code": "bfq"
+    },
+    {
+        "languageQID": "Q7918",
+        "languageLabel": "Bulgarian",
+        "languageDescription": "South Slavic language",
+        "code": "bg"
+    },
+    {
+        "languageQID": "Q12645561",
+        "languageLabel": "Western Balochi",
+        "languageDescription": "group of Balochi dialects",
+        "code": "bgn"
+    },
+    {
+        "languageQID": "Q33268",
+        "languageLabel": "Bhojpuri",
+        "languageDescription": "Indo-Aryan language native to India and Nepal",
+        "code": "bh"
+    },
+    {
+        "languageQID": "Q33268",
+        "languageLabel": "Bhojpuri",
+        "languageDescription": "Indo-Aryan language native to India and Nepal",
+        "code": "bho"
+    },
+    {
+        "languageQID": "Q35452",
+        "languageLabel": "Bislama",
+        "languageDescription": "English-based creole language of Vanuatu",
+        "code": "bi"
+    },
+    {
+        "languageQID": "Q33151",
+        "languageLabel": "Banjar",
+        "languageDescription": "Austronesian language spoken in Kalimantan, Indonesia",
+        "code": "bjn"
+    },
+    {
+        "languageQID": "Q33060",
+        "languageLabel": "Blackfoot",
+        "languageDescription": "indigenous language of the northwestern Great Plains of North America",
+        "code": "bla"
+    },
+    {
+        "languageQID": "Q7121294",
+        "languageLabel": "Pa'O",
+        "languageDescription": "Sino-Tibetan language spoken in Myanmar and Thailand",
+        "code": "blk"
+    },
+    {
+        "languageQID": "Q33243",
+        "languageLabel": "Bambara",
+        "languageDescription": "western African language spoken in Mali, with SVO structure and two lexical tones",
+        "code": "bm"
+    },
+    {
+        "languageQID": "Q9610",
+        "languageLabel": "Bangla",
+        "languageDescription": "Indo-Aryan language mostly spoken in Bangladesh and India",
+        "code": "bn"
+    },
+    {
+        "languageQID": "Q56505",
+        "languageLabel": "Bunun",
+        "languageDescription": "Formosan language spoken by the Bunun people of Taiwan",
+        "code": "bnn"
+    },
+    {
+        "languageQID": "Q93937013",
+        "languageLabel": "Mpiin",
+        "languageDescription": "language",
+        "code": "bnt-mpi"
+    },
+    {
+        "languageQID": "Q3408025",
+        "languageLabel": "Proto-Bantu",
+        "languageDescription": "reconstructed proto-language",
+        "code": "bnt-pro"
+    },
+    {
+        "languageQID": "Q34271",
+        "languageLabel": "Tibetan",
+        "languageDescription": "Tibeto-Burman language",
+        "code": "bo"
+    },
+    {
+        "languageQID": "Q37059",
+        "languageLabel": "Bishnupriya Manipuri",
+        "languageDescription": "Indo-Aryan language spoken in India and Bangladesh",
+        "code": "bpy"
+    },
+    {
+        "languageQID": "Q257829",
+        "languageLabel": "Bakhtiari",
+        "languageDescription": "language",
+        "code": "bqi"
+    },
+    {
+        "languageQID": "Q12107",
+        "languageLabel": "Breton",
+        "languageDescription": "Celtic language spoken in France",
+        "code": "br"
+    },
+    {
+        "languageQID": "Q33202",
+        "languageLabel": "Brahui",
+        "languageDescription": "Dravidian language spoken by Brahui people of Pakistan, Afghanistan and Iran, and expatriate communities in Qatar, United Arab Emirates, and Iraq",
+        "code": "brh"
+    },
+    {
+        "languageQID": "Q33223",
+        "languageLabel": "Bodo",
+        "languageDescription": "Tibeto-Burman language of the Bodo people of north-eastern India and Nepal",
+        "code": "brx"
+    },
+    {
+        "languageQID": "Q9303",
+        "languageLabel": "Bosnian",
+        "languageDescription": "South Slavic language; a standardized variety of the Serbo-Croatian pluricentric language",
+        "code": "bs"
+    },
+    {
+        "languageQID": "Q56648",
+        "languageLabel": "Abinomn",
+        "languageDescription": "a language isolate of Indonesia",
+        "code": "bsa"
+    },
+    {
+        "languageQID": "Q216286",
+        "languageLabel": "Burushaski",
+        "languageDescription": "isolate language spoken by Burushos in northern Pakistan and India",
+        "code": "bsk"
+    },
+    {
+        "languageQID": "Q34806",
+        "languageLabel": "Kose",
+        "languageDescription": "language",
+        "code": "bss"
+    },
+    {
+        "languageQID": "Q2891049",
+        "languageLabel": "Mandailing Batak",
+        "languageDescription": "Batak language spoken by the Mandailing Batak people",
+        "code": "btm"
+    },
+    {
+        "languageQID": "Q12633026",
+        "languageLabel": "Rinconada Bikol",
+        "languageDescription": "Bikol language spoken in Camarines Sur, Bicol Region",
+        "code": "bto"
+    },
+    {
+        "languageQID": "Q33190",
+        "languageLabel": "Bugis",
+        "languageDescription": "South Sulawesi language predominantly spoken by the Bugis ethnic group",
+        "code": "bug"
+    },
+    {
+        "languageQID": "Q16116629",
+        "languageLabel": "Russia Buriat",
+        "languageDescription": "Buryat language",
+        "code": "bxr"
+    },
+    {
+        "languageQID": "Q33120",
+        "languageLabel": "Buryat",
+        "languageDescription": "variety of Mongolic spoken by the Buryats that is classified either as a language or as a major dialect group of Mongolian",
+        "code": "bxr"
+    },
+    {
+        "languageQID": "Q716647",
+        "languageLabel": "Basay",
+        "languageDescription": "extinct Formosan language of northern Taiwan",
+        "code": "byq"
+    },
+    {
+        "languageQID": "Q716615",
+        "languageLabel": "Babuza",
+        "languageDescription": "language",
+        "code": "bzg"
+    },
+    {
+        "languageQID": "Q3436689",
+        "languageLabel": "Brazilian Sign Language",
+        "languageDescription": "sign language of Brazil",
+        "code": "bzs"
+    },
+    {
+        "languageQID": "Q7026",
+        "languageLabel": "Catalan",
+        "languageDescription": "Western Romance language",
+        "code": "ca"
+    },
+    {
+        "languageQID": "Q32641",
+        "languageLabel": "Valencian",
+        "languageDescription": "linguistic variety (dialect) and official name of the Catalan language spoken in the Valencian Community",
+        "code": "ca-valencia"
+    },
+    {
+        "languageQID": "Q15478520",
+        "languageLabel": "Old Catalan",
+        "languageDescription": "medieval Romance language",
+        "code": "ca-x-old"
+    },
+    {
+        "languageQID": "Q35115",
+        "languageLabel": "Kaqchikel",
+        "languageDescription": "Mesoamerican language",
+        "code": "cak"
+    },
+    {
+        "languageQID": "Q28427",
+        "languageLabel": "Carolinian",
+        "languageDescription": "Austronesian language of the Northern Mariana Islands",
+        "code": "cal"
+    },
+    {
+        "languageQID": "Q32174903",
+        "languageLabel": "Zamboanga Chavacano",
+        "languageDescription": "dialect of Chavacano",
+        "code": "cbk-x-zam"
+    },
+    {
+        "languageQID": "Q32174903",
+        "languageLabel": "Zamboanga Chavacano",
+        "languageDescription": "dialect of Chavacano",
+        "code": "cbk-zam"
+    },
+    {
+        "languageQID": "Q33281",
+        "languageLabel": "Chavacano",
+        "languageDescription": "Spanish-based creole language spoken in the Philippines",
+        "code": "cbk-zam"
+    },
+    {
+        "languageQID": "Q32952",
+        "languageLabel": "Chakma",
+        "languageDescription": "Indo-Aryan language spoken by the Chakma people",
+        "code": "ccp"
+    },
+    {
+        "languageQID": "Q36455",
+        "languageLabel": "Eastern Min",
+        "languageDescription": "branch of the Min group of Sinitic languages of China",
+        "code": "cdo"
+    },
+    {
+        "languageQID": "Q33350",
+        "languageLabel": "Chechen",
+        "languageDescription": "Northeast Caucasian language spoken mostly in Chechnya and by Chechen people",
+        "code": "ce"
+    },
+    {
+        "languageQID": "Q33239",
+        "languageLabel": "Cebuano",
+        "languageDescription": "Austronesian language spoken in the Philippines by Cebuanos and other ethnic groups",
+        "code": "ceb"
+    },
+    {
+        "languageQID": "Q56648796",
+        "languageLabel": "Proto-Brythonic",
+        "languageDescription": "proto-language",
+        "code": "cel-bry-pro"
+    },
+    {
+        "languageQID": "Q653649",
+        "languageLabel": "Proto-Celtic",
+        "languageDescription": "proto-language",
+        "code": "cel-pro"
+    },
+    {
+        "languageQID": "Q1248800",
+        "languageLabel": "Common Brittonic",
+        "languageDescription": "ancient Celtic language of Britain, ancestor to Welsh, Cornish, Breton and Cumbric",
+        "code": "cel-x-combrit"
+    },
+    {
+        "languageQID": "Q6346422",
+        "languageLabel": "Kagayanen",
+        "languageDescription": "language",
+        "code": "cgc"
+    },
+    {
+        "languageQID": "Q33262",
+        "languageLabel": "Chamorro",
+        "languageDescription": "Malayo-Polynesian (Austronesian) language, spoken on the Mariana Islands",
+        "code": "ch"
+    },
+    {
+        "languageQID": "Q35173",
+        "languageLabel": "Chinook Jargon",
+        "languageDescription": "pidgin language of northwest North America",
+        "code": "chn"
+    },
+    {
+        "languageQID": "Q32979",
+        "languageLabel": "Choctaw",
+        "languageDescription": "Muskogean language",
+        "code": "cho"
+    },
+    {
+        "languageQID": "Q33388",
+        "languageLabel": "Cherokee",
+        "languageDescription": "Iroquoian language spoken by the Cherokee people",
+        "code": "chr"
+    },
+    {
+        "languageQID": "Q145625",
+        "languageLabel": "Glagolitic",
+        "languageDescription": "oldest known Slavic alphabet",
+        "code": "chu"
+    },
+    {
+        "languageQID": "Q33265",
+        "languageLabel": "Cheyenne",
+        "languageDescription": "indigenous language of the United States",
+        "code": "chy"
+    },
+    {
+        "languageQID": "Q36811",
+        "languageLabel": "Sorani",
+        "languageDescription": "Kurdish language spoken in Iraq and Iran",
+        "code": "ckb"
+    },
+    {
+        "languageQID": "Q33170",
+        "languageLabel": "Chukchi",
+        "languageDescription": "Palaeosiberian language",
+        "code": "ckt"
+    },
+    {
+        "languageQID": "Q716627",
+        "languageLabel": "Kavalan",
+        "languageDescription": "East Formosan language of Taiwan",
+        "code": "ckv"
+    },
+    {
+        "languageQID": "Q28535",
+        "languageLabel": "Chilcotin",
+        "languageDescription": "Northern Athabaskan language spoken in British Columbia by the Tsilhqot’in people",
+        "code": "clc"
+    },
+    {
+        "languageQID": "Q3250286",
+        "languageLabel": "Hakha–Chin",
+        "languageDescription": "language",
+        "code": "cnh"
+    },
+    {
+        "languageQID": "Q8821",
+        "languageLabel": "Montenegrin",
+        "languageDescription": "normative variety of Serbo-Croatian in Montenegro",
+        "code": "cnr"
+    },
+    {
+        "languageQID": "Q33111",
+        "languageLabel": "Corsican",
+        "languageDescription": "Italo-Dalmatian language",
+        "code": "co"
+    },
+    {
+        "languageQID": "Q36155",
+        "languageLabel": "Coptic",
+        "languageDescription": "latest stage of the Egyptian language",
+        "code": "cop"
+    },
+    {
+        "languageQID": "Q2937525",
+        "languageLabel": "Capisnon",
+        "languageDescription": "Visayan language",
+        "code": "cps"
+    },
+    {
+        "languageQID": "Q56583",
+        "languageLabel": "Pu-Xian Min",
+        "languageDescription": "language",
+        "code": "cpx"
+    },
+    {
+        "languageQID": "Q33390",
+        "languageLabel": "Cree",
+        "languageDescription": "aboriginal language continuum spoken in Canada",
+        "code": "cr"
+    },
+    {
+        "languageQID": "Q33357",
+        "languageLabel": "Crimean Tatar",
+        "languageDescription": "Turkic language spoken in Crimea",
+        "code": "crh"
+    },
+    {
+        "languageQID": "Q12642195",
+        "languageLabel": "Northern East Cree",
+        "languageDescription": "variety of East Cree spoken in Canada",
+        "code": "crl"
+    },
+    {
+        "languageQID": "Q34015",
+        "languageLabel": "Seychellois Creole",
+        "languageDescription": "language",
+        "code": "crs"
+    },
+    {
+        "languageQID": "Q9056",
+        "languageLabel": "Czech",
+        "languageDescription": "West Slavic language",
+        "code": "cs"
+    },
+    {
+        "languageQID": "Q33690",
+        "languageLabel": "Kashubian",
+        "languageDescription": "West Slavic language spoken in Poland",
+        "code": "csb"
+    },
+    {
+        "languageQID": "Q33173",
+        "languageLabel": "Chittagonian",
+        "languageDescription": "language spoken throughout the Chittagong region",
+        "code": "ctg"
+    },
+    {
+        "languageQID": "Q25704993",
+        "languageLabel": "Church Slavonic alphabet",
+        "languageDescription": "Slavonic writing system, using Cyrillic and/or Glagolitic letters",
+        "code": "cu"
+    },
+    {
+        "languageQID": "Q33251",
+        "languageLabel": "Church Slavonic",
+        "languageDescription": "old Slavic language used in the liturgy of some branches of the Orthodox Church",
+        "code": "cu"
+    },
+    {
+        "languageQID": "Q111524983",
+        "languageLabel": "Slavonic numerals",
+        "languageDescription": "Slavonic numerical and dating system",
+        "code": "cu-num"
+    },
+    {
+        "languageQID": "Q108519491",
+        "languageLabel": "Slavonic musical notation",
+        "languageDescription": "Musical notation of Slavs",
+        "code": "cu-nun"
+    },
+    {
+        "languageQID": "Q9338538",
+        "languageLabel": "Slavonic Phonetic Alphabet",
+        "languageDescription": "Slavonic pronunciation",
+        "code": "cu-pronunciation"
+    },
+    {
+        "languageQID": "Q33348",
+        "languageLabel": "Chuvash",
+        "languageDescription": "Turkic language spoken in central Russia, primarily in the Chuvash Republic and adjacent areas",
+        "code": "cv"
+    },
+    {
+        "languageQID": "Q9309",
+        "languageLabel": "Welsh",
+        "languageDescription": "Brittonic language spoken natively in Wales",
+        "code": "cy"
+    },
+    {
+        "languageQID": "Q9035",
+        "languageLabel": "Danish",
+        "languageDescription": "North Germanic language spoken in Northern Europe",
+        "code": "da"
+    },
+    {
+        "languageQID": "Q32238",
+        "languageLabel": "Dagbani",
+        "languageDescription": "Gur/Mabia language spoken in Ghana",
+        "code": "dag"
+    },
+    {
+        "languageQID": "Q32332",
+        "languageLabel": "Dargwa",
+        "languageDescription": "language spoken by the Dargin people of Dagestan",
+        "code": "dar"
+    },
+    {
+        "languageQID": "Q188",
+        "languageLabel": "German",
+        "languageDescription": "West Germanic language spoken mainly in Central Europe",
+        "code": "de"
+    },
+    {
+        "languageQID": "Q306626",
+        "languageLabel": "Austrian German",
+        "languageDescription": "variety of Standard German written and spoken in Austria and North Italy",
+        "code": "de-at"
+    },
+    {
+        "languageQID": "Q125258960",
+        "languageLabel": "Belgian German",
+        "languageDescription": "form of German that is spoken and written in Belgium",
+        "code": "de-be"
+    },
+    {
+        "languageQID": "Q1366643",
+        "languageLabel": "Swiss High German",
+        "languageDescription": "German as used in Switzerland, mainly as written language",
+        "code": "de-ch"
+    },
+    {
+        "languageQID": "Q64427341",
+        "languageLabel": "formal address in German",
+        "languageDescription": "formal style of German",
+        "code": "de-formal"
+    },
+    {
+        "languageQID": "Q56466",
+        "languageLabel": "Dinka",
+        "languageDescription": "Nilotic dialect cluster spoken by the Dinka people, the major ethnic group of South Sudan",
+        "code": "din"
+    },
+    {
+        "languageQID": "Q10199",
+        "languageLabel": "Zazaki",
+        "languageDescription": "Indo-European language spoken by Zaza people",
+        "code": "diq"
+    },
+    {
+        "languageQID": "Q35527",
+        "languageLabel": "Dalmatian",
+        "languageDescription": "extinct Romance language",
+        "code": "dlm"
+    },
+    {
+        "languageQID": "Q1702853",
+        "languageLabel": "Proto-Dravidian",
+        "languageDescription": "linguistic reconstruction of the common ancestor of the Dravidian languages",
+        "code": "dra-pro"
+    },
+    {
+        "languageQID": "Q49232",
+        "languageLabel": "Rukai",
+        "languageDescription": "languages of the Rukai people, an indigenous people of Taiwan",
+        "code": "dru"
+    },
+    {
+        "languageQID": "Q13286",
+        "languageLabel": "Lower Sorbian",
+        "languageDescription": "Western Slavic language spoken in eastern Germany in the historical province of Lower Lusatia",
+        "code": "dsb"
+    },
+    {
+        "languageQID": "Q5317225",
+        "languageLabel": "Kadazandusun",
+        "languageDescription": "language spoken by the Dusun and Kadazan peoples of Sabah, Malaysia",
+        "code": "dtp"
+    },
+    {
+        "languageQID": "Q18415595",
+        "languageLabel": "Doteli",
+        "languageDescription": "Indo-Aryan language",
+        "code": "dty"
+    },
+    {
+        "languageQID": "Q33013",
+        "languageLabel": "Duala",
+        "languageDescription": "Bantu language spoken in Cameroon",
+        "code": "dua"
+    },
+    {
+        "languageQID": "Q32656",
+        "languageLabel": "Divehi",
+        "languageDescription": "Indo-Aryan national language of the Maldives",
+        "code": "dv"
+    },
+    {
+        "languageQID": "Q33081",
+        "languageLabel": "Dzongkha",
+        "languageDescription": "Sino-Tibetan language spoken in Bhutan",
+        "code": "dz"
+    },
+    {
+        "languageQID": "Q30005",
+        "languageLabel": "Ewe",
+        "languageDescription": "Niger–Congo language spoken in southeastern Ghana and southern Togo",
+        "code": "ee"
+    },
+    {
+        "languageQID": "Q35377",
+        "languageLabel": "Efik",
+        "languageDescription": "Cross River language spoken in Nigeria",
+        "code": "efi"
+    },
+    {
+        "languageQID": "Q1057898",
+        "languageLabel": "Emilian",
+        "languageDescription": "group of dialects of the Emilian-Romagnol language, mainly spoken in the Emilia region of Italy",
+        "code": "egl"
+    },
+    {
+        "languageQID": "Q36765",
+        "languageLabel": "Demotic Egyptian",
+        "languageDescription": "stage of ancient Egyptian language",
+        "code": "egy-x-demotic"
+    },
+    {
+        "languageQID": "Q1852329",
+        "languageLabel": "Late Egyptian",
+        "languageDescription": "language",
+        "code": "egy-x-late"
+    },
+    {
+        "languageQID": "Q657330",
+        "languageLabel": "Middle Egyptian",
+        "languageDescription": "language written from 2000-1300 BC, during the Middle Kingdom and the Second Intermediate Period",
+        "code": "egy-x-middle"
+    },
+    {
+        "languageQID": "Q447117",
+        "languageLabel": "Old Egyptian",
+        "languageDescription": "extinct language spoken approximately from the 27th to the 21 centuries BC during the Old Kingdom and First Intermediate Period",
+        "code": "egy-x-old"
+    },
+    {
+        "languageQID": "Q9129",
+        "languageLabel": "Greek",
+        "languageDescription": "Indo-European language",
+        "code": "el"
+    },
+    {
+        "languageQID": "Q36510",
+        "languageLabel": "Modern Greek",
+        "languageDescription": "dialects and varieties of the Greek language spoken in the modern era",
+        "code": "el"
+    },
+    {
+        "languageQID": "Q245899",
+        "languageLabel": "Cypriot Greek",
+        "languageDescription": "dialect",
+        "code": "el-cy"
+    },
+    {
+        "languageQID": "Q242648",
+        "languageLabel": "Emilian–Romagnol",
+        "languageDescription": "branch of Gallo-Italic consisting of Emilian and Romagnol",
+        "code": "eml"
+    },
+    {
+        "languageQID": "Q1860",
+        "languageLabel": "English",
+        "languageDescription": "West Germanic language",
+        "code": "en"
+    },
+    {
+        "languageQID": "Q44679",
+        "languageLabel": "Australian English",
+        "languageDescription": "set of varieties of the English language native to Australia",
+        "code": "en-au"
+    },
+    {
+        "languageQID": "Q44676",
+        "languageLabel": "Canadian English",
+        "languageDescription": "set of varieties of the English language native to Canada",
+        "code": "en-ca"
+    },
+    {
+        "languageQID": "Q7979",
+        "languageLabel": "British English",
+        "languageDescription": "forms of the English language used in Britain",
+        "code": "en-gb"
+    },
+    {
+        "languageQID": "Q1348800",
+        "languageLabel": "Indian English",
+        "languageDescription": "group of English dialects spoken primarily in the Indian subcontinent",
+        "code": "en-in"
+    },
+    {
+        "languageQID": "Q21480034",
+        "languageLabel": "Simple English",
+        "languageDescription": "language with Wikimedia language code \"simple\"",
+        "code": "en-simple"
+    },
+    {
+        "languageQID": "Q7976",
+        "languageLabel": "American English",
+        "languageDescription": "set of dialects of the English language spoken in the United States",
+        "code": "en-us"
+    },
+    {
+        "languageQID": "Q6144345",
+        "languageLabel": "Southern American English",
+        "languageDescription": "varieties of English spoken in the Southern United States",
+        "code": "en-us-so"
+    },
+    {
+        "languageQID": "Q7707309",
+        "languageLabel": "Texan English",
+        "languageDescription": "variety of English spoken in Texas",
+        "code": "en-us-tx"
+    },
+    {
+        "languageQID": "Q21480034",
+        "languageLabel": "Simple English",
+        "languageDescription": "language with Wikimedia language code \"simple\"",
+        "code": "en-x-simple"
+    },
+    {
+        "languageQID": "Q36395",
+        "languageLabel": "Middle English",
+        "languageDescription": "stage of the English language from about the 12th through 15th centuries",
+        "code": "enm"
+    },
+    {
+        "languageQID": "Q143",
+        "languageLabel": "Esperanto",
+        "languageDescription": "international auxiliary language designed by L. L. Zamenhof",
+        "code": "eo"
+    },
+    {
+        "languageQID": "Q3505590",
+        "languageLabel": "System H",
+        "languageDescription": "alternative Esperanto orthography, where instead of the letters Ĉ/Ĝ/Ĥ/Ĵ/Ŝ/Ŭ with diacritics, one writes CH/GH/HH/JH/SH/U",
+        "code": "eo-hsistemo"
+    },
+    {
+        "languageQID": "Q3497763",
+        "languageLabel": "System X",
+        "languageDescription": "alternative Esperanto orthography, where instead of the letters Ĉ/Ĝ/Ĥ/Ĵ/Ŝ/Ŭ with diacritics, one writes CX/GX/HX/JX/SX/UX",
+        "code": "eo-xsistemo"
+    },
+    {
+        "languageQID": "Q1321",
+        "languageLabel": "Spanish",
+        "languageDescription": "Romance language originating in the Iberian Peninsula",
+        "code": "es"
+    },
+    {
+        "languageQID": "Q56649449",
+        "languageLabel": "Latin American Spanish",
+        "languageDescription": "dialects of Spanish spoken in Latin American countries",
+        "code": "es-419"
+    },
+    {
+        "languageQID": "Q64427343",
+        "languageLabel": "Spanish (formal address)",
+        "languageDescription": "Spanish using formal \"you\"",
+        "code": "es-formal"
+    },
+    {
+        "languageQID": "Q21117",
+        "languageLabel": "Central Alaskan Yup'ik",
+        "languageDescription": "language of the Yupik family, spoken in western and southwestern Alaska",
+        "code": "esu"
+    },
+    {
+        "languageQID": "Q7251842",
+        "languageLabel": "Proto-Inuit-Yupik",
+        "languageDescription": "reconstructed ancestor of the Inuit-Yupik (Eskimo) languages",
+        "code": "esx-esk-pro"
+    },
+    {
+        "languageQID": "Q60785588",
+        "languageLabel": "Proto-Inuit",
+        "languageDescription": "reconstructed ancestor of the Inuit languages",
+        "code": "esx-inu-pro"
+    },
+    {
+        "languageQID": "Q9072",
+        "languageLabel": "Estonian",
+        "languageDescription": "Finno-Ugric language",
+        "code": "et"
+    },
+    {
+        "languageQID": "Q35726",
+        "languageLabel": "Etruscan",
+        "languageDescription": "ancient Mediterranean language",
+        "code": "ett"
+    },
+    {
+        "languageQID": "Q8752",
+        "languageLabel": "Basque",
+        "languageDescription": "language of the Basque people",
+        "code": "eu"
+    },
+    {
+        "languageQID": "Q30007",
+        "languageLabel": "Extremaduran",
+        "languageDescription": "Romance language spoken in Spain",
+        "code": "ext"
+    },
+    {
+        "languageQID": "Q27480",
+        "languageLabel": "Eyak",
+        "languageDescription": "indigenous language of North America",
+        "code": "eya"
+    },
+    {
+        "languageQID": "Q9168",
+        "languageLabel": "Persian",
+        "languageDescription": "Western Iranian language",
+        "code": "fa"
+    },
+    {
+        "languageQID": "Q178440",
+        "languageLabel": "Dari",
+        "languageDescription": "dialect of the Persian language spoken in Afghanistan",
+        "code": "fa-af"
+    },
+    {
+        "languageQID": "Q33454",
+        "languageLabel": "Fula",
+        "languageDescription": "language of West Africa of the Senegambian branch of the Niger–Congo language family",
+        "code": "ff"
+    },
+    {
+        "languageQID": "Q1412",
+        "languageLabel": "Finnish",
+        "languageDescription": "Finno-Ugric language mostly spoken in Finland",
+        "code": "fi"
+    },
+    {
+        "languageQID": "Q13357",
+        "languageLabel": "Meänkieli",
+        "languageDescription": "de jure one of the official minority languages of Sweden spoken in the northernmost parts around the valley of the Torne River",
+        "code": "fit"
+    },
+    {
+        "languageQID": "Q32762",
+        "languageLabel": "Võro",
+        "languageDescription": "dialect of the South Estonian [Võro-Seto] language",
+        "code": "fiu-vro"
+    },
+    {
+        "languageQID": "Q33295",
+        "languageLabel": "Fijian",
+        "languageDescription": "Austronesian language of the Malayo-Polynesian family spoken in Fiji",
+        "code": "fj"
+    },
+    {
+        "languageQID": "Q165795",
+        "languageLabel": "Kven",
+        "languageDescription": "language",
+        "code": "fkv"
+    },
+    {
+        "languageQID": "Q25258",
+        "languageLabel": "Faroese",
+        "languageDescription": "insular Nordic language spoken as a native language by the people of Faroe Islands",
+        "code": "fo"
+    },
+    {
+        "languageQID": "Q33291",
+        "languageLabel": "Fon",
+        "languageDescription": "part of the Gbe language cluster and belongs to the Volta–Niger branch of the Niger–Congo languages",
+        "code": "fon"
+    },
+    {
+        "languageQID": "Q716604",
+        "languageLabel": "Siraya",
+        "languageDescription": "extinct Austronesian language of Taiwan",
+        "code": "fos"
+    },
+    {
+        "languageQID": "Q150",
+        "languageLabel": "French",
+        "languageDescription": "Romance language",
+        "code": "fr"
+    },
+    {
+        "languageQID": "Q815549",
+        "languageLabel": "Belgian French",
+        "languageDescription": "form of French spoken and written in Belgium",
+        "code": "fr-be"
+    },
+    {
+        "languageQID": "Q1450506",
+        "languageLabel": "Canadian French",
+        "languageDescription": "dialect of French mainly spoken in Canada",
+        "code": "fr-ca"
+    },
+    {
+        "languageQID": "Q33850",
+        "languageLabel": "Norman",
+        "languageDescription": "Romance language of northwest France",
+        "code": "fr-x-nrm"
+    },
+    {
+        "languageQID": "Q880301",
+        "languageLabel": "Cajun French",
+        "languageDescription": "language",
+        "code": "frc"
+    },
+    {
+        "languageQID": "Q1473289",
+        "languageLabel": "Middle French",
+        "languageDescription": "historical variety of French used c. 1350–1600",
+        "code": "frm"
+    },
+    {
+        "languageQID": "Q35222",
+        "languageLabel": "Old French",
+        "languageDescription": "Gallo-Romance dialect continuum spoken from the 9th century to the middle of the 14th century",
+        "code": "fro"
+    },
+    {
+        "languageQID": "Q15087",
+        "languageLabel": "Franco-Provençal",
+        "languageDescription": "Gallo-Romance language spoken in France, Italy and Switzerland",
+        "code": "frp"
+    },
+    {
+        "languageQID": "Q28224",
+        "languageLabel": "North Frisian",
+        "languageDescription": "minority languages of Germany, spoken mostly by people in North Frisia",
+        "code": "frr"
+    },
+    {
+        "languageQID": "Q3915357",
+        "languageLabel": "Pular",
+        "languageDescription": "language",
+        "code": "fuf"
+    },
+    {
+        "languageQID": "Q33441",
+        "languageLabel": "Friulian",
+        "languageDescription": "Romance language belonging to the Rhaeto-Romance family, spoken in the Friuli region of northeastern Italy",
+        "code": "fur"
+    },
+    {
+        "languageQID": "Q27175",
+        "languageLabel": "West Frisian",
+        "languageDescription": "Germanic language native to the Dutch region of Friesland",
+        "code": "fy"
+    },
+    {
+        "languageQID": "Q9142",
+        "languageLabel": "Irish",
+        "languageDescription": "language native to Ireland",
+        "code": "ga"
+    },
+    {
+        "languageQID": "Q33287",
+        "languageLabel": "Ga",
+        "languageDescription": "Kwa language spoken in Ghana",
+        "code": "gaa"
+    },
+    {
+        "languageQID": "Q33457",
+        "languageLabel": "Gagauz",
+        "languageDescription": "Turkic language, spoken mainly by the Gagauz people and the official language of the autonomous Moldovan region of Gagauzia",
+        "code": "gag"
+    },
+    {
+        "languageQID": "Q33475",
+        "languageLabel": "Gan Chinese",
+        "languageDescription": "member of the Sinitic languages of the Sino-Tibetan language family spoken as the native language by the people in the Jiangxi province of China",
+        "code": "gan"
+    },
+    {
+        "languageQID": "Q64427344",
+        "languageLabel": "simplified Gan",
+        "languageDescription": "Gan written in simplified Chinese characters",
+        "code": "gan-hans"
+    },
+    {
+        "languageQID": "Q64427346",
+        "languageLabel": "traditional Gan",
+        "languageDescription": "Gan written in traditional Chinese characters",
+        "code": "gan-hant"
+    },
+    {
+        "languageQID": "Q3006280",
+        "languageLabel": "Guadeloupean Creole",
+        "languageDescription": "French-based creole spoken in Guadeloupe",
+        "code": "gcf"
+    },
+    {
+        "languageQID": "Q35022",
+        "languageLabel": "Antillean Creole",
+        "languageDescription": "French-based creole languages family, primarily spoken in the Lesser Antilles",
+        "code": "gcf"
+    },
+    {
+        "languageQID": "Q1363072",
+        "languageLabel": "Guianan Creole",
+        "languageDescription": "French-based creole from French Guiana",
+        "code": "gcr"
+    },
+    {
+        "languageQID": "Q9314",
+        "languageLabel": "Scottish Gaelic",
+        "languageDescription": "Goidelic Celtic language of Scotland",
+        "code": "gd"
+    },
+    {
+        "languageQID": "Q35667",
+        "languageLabel": "Ge'ez",
+        "languageDescription": "ancient Semitic language of Ethiopia",
+        "code": "gez"
+    },
+    {
+        "languageQID": "Q30898",
+        "languageLabel": "Gilbertese",
+        "languageDescription": "language from the Austronesian family",
+        "code": "gil"
+    },
+    {
+        "languageQID": "Q9307",
+        "languageLabel": "Galician",
+        "languageDescription": "Western Ibero-Romance language",
+        "code": "gl"
+    },
+    {
+        "languageQID": "Q33657",
+        "languageLabel": "Gilaki",
+        "languageDescription": "Western Iranian language",
+        "code": "glk"
+    },
+    {
+        "languageQID": "Q837985",
+        "languageLabel": "Middle High German",
+        "languageDescription": "historical form of High German",
+        "code": "gmh"
+    },
+    {
+        "languageQID": "Q505674",
+        "languageLabel": "Middle Low German",
+        "languageDescription": "developmental stage of Low German that has evolved from the Old Saxon language in the High Middle Ages",
+        "code": "gml"
+    },
+    {
+        "languageQID": "Q13138608",
+        "languageLabel": "Proto-West Germanic",
+        "languageDescription": "common ancestor of the West Germanic languages",
+        "code": "gmw-pro"
+    },
+    {
+        "languageQID": "Q499344",
+        "languageLabel": "East Central German",
+        "languageDescription": "dialect group",
+        "code": "gmw-x-ecg"
+    },
+    {
+        "languageQID": "Q35876",
+        "languageLabel": "Guarani",
+        "languageDescription": "Tupian language of Paraguay, Argentina, Brazil and Bolivia",
+        "code": "gn"
+    },
+    {
+        "languageQID": "Q35218",
+        "languageLabel": "Old High German",
+        "languageDescription": "earliest stage of the German language, spoken from 500/750 to 1050 AD",
+        "code": "goh"
+    },
+    {
+        "languageQID": "Q5575236",
+        "languageLabel": "Goan Konkani",
+        "languageDescription": "language",
+        "code": "gom"
+    },
+    {
+        "languageQID": "Q64362984",
+        "languageLabel": "Goan Konkani in Devanagari script",
+        "languageDescription": "language expressed in a particular alphabet",
+        "code": "gom-deva"
+    },
+    {
+        "languageQID": "Q64362985",
+        "languageLabel": "Goan Konkani in Latin script",
+        "languageDescription": "language expressed in a particular alphabet",
+        "code": "gom-latn"
+    },
+    {
+        "languageQID": "Q2501174",
+        "languageLabel": "Gorontalo",
+        "languageDescription": "Northern Sulawesi language",
+        "code": "gor"
+    },
+    {
+        "languageQID": "Q35722",
+        "languageLabel": "Gothic",
+        "languageDescription": "extinct East Germanic language spoken by the Goths",
+        "code": "got"
+    },
+    {
+        "languageQID": "Q5555465",
+        "languageLabel": "Ghanaian Pidgin English",
+        "languageDescription": "creole language",
+        "code": "gpe"
+    },
+    {
+        "languageQID": "Q35497",
+        "languageLabel": "Ancient Greek",
+        "languageDescription": "forms of Greek used from around the 9th century BCE to the 6th century CE",
+        "code": "grc"
+    },
+    {
+        "languageQID": "Q33282",
+        "languageLabel": "German Sign Language",
+        "languageDescription": "sign language in which the deaf community and hearing people communicate with each other in Germany",
+        "code": "gsg"
+    },
+    {
+        "languageQID": "Q131339",
+        "languageLabel": "Alemannic",
+        "languageDescription": "group of dialects of the Upper German branch of the Germanic language family",
+        "code": "gsw"
+    },
+    {
+        "languageQID": "Q8786",
+        "languageLabel": "Alsatian",
+        "languageDescription": "Low Alemannic German dialect spoken in most of Alsace, a region in eastern France",
+        "code": "gsw-fr"
+    },
+    {
+        "languageQID": "Q5137",
+        "languageLabel": "Gujarati",
+        "languageDescription": "Indo-Aryan language that is spoken on the state of Gujarat",
+        "code": "gu"
+    },
+    {
+        "languageQID": "Q891085",
+        "languageLabel": "Wayuu",
+        "languageDescription": "Arawakan language",
+        "code": "guc"
+    },
+    {
+        "languageQID": "Q3111668",
+        "languageLabel": "Gun",
+        "languageDescription": "language spoken in Nigeria and Benin",
+        "code": "guw"
+    },
+    {
+        "languageQID": "Q12175",
+        "languageLabel": "Manx",
+        "languageDescription": "Celtic language spoken on the Isle of Man",
+        "code": "gv"
+    },
+    {
+        "languageQID": "Q56475",
+        "languageLabel": "Hausa",
+        "languageDescription": "Chadic language spoken by the Hausa people",
+        "code": "ha"
+    },
+    {
+        "languageQID": "Q33303",
+        "languageLabel": "Haida",
+        "languageDescription": "endangered language spoken in Canada and Alaska",
+        "code": "hai"
+    },
+    {
+        "languageQID": "Q33375",
+        "languageLabel": "Hakka Chinese",
+        "languageDescription": "primary branch of Chinese originating in Southern China",
+        "code": "hak"
+    },
+    {
+        "languageQID": "Q33569",
+        "languageLabel": "Hawaiian",
+        "languageDescription": "Polynesian language",
+        "code": "haw"
+    },
+    {
+        "languageQID": "Q1982248",
+        "languageLabel": "Biblical Hebrew",
+        "languageDescription": "archaic form of the Hebrew language",
+        "code": "hbo"
+    },
+    {
+        "languageQID": "Q9288",
+        "languageLabel": "Hebrew",
+        "languageDescription": "Northwest Semitic language",
+        "code": "he"
+    },
+    {
+        "languageQID": "Q1568",
+        "languageLabel": "Hindi",
+        "languageDescription": "Indo-Aryan language spoken in India",
+        "code": "hi"
+    },
+    {
+        "languageQID": "Q46728",
+        "languageLabel": "Fiji Hindi",
+        "languageDescription": "language spoken by most Fijian citizens of Indian descent",
+        "code": "hif"
+    },
+    {
+        "languageQID": "Q64362986",
+        "languageLabel": "Fiji Hindi in Latin script",
+        "languageDescription": "language expressed in a particular alphabet",
+        "code": "hif-latn"
+    },
+    {
+        "languageQID": "Q35978",
+        "languageLabel": "Hiligaynon",
+        "languageDescription": "Hiligaynon language spoken in the Western Visayas region of the Philippines",
+        "code": "hil"
+    },
+    {
+        "languageQID": "Q7251846",
+        "languageLabel": "Proto-Hmong–Mien",
+        "languageDescription": "reconstruction of an ancestor for the language family",
+        "code": "hmx-pro"
+    },
+    {
+        "languageQID": "Q382273",
+        "languageLabel": "Hindko",
+        "languageDescription": "Indo-Aryan language spoken in Afghanistan, Pakistan, and India",
+        "code": "hno"
+    },
+    {
+        "languageQID": "Q33617",
+        "languageLabel": "Hiri Motu",
+        "languageDescription": "Austronesian language of Papua New Guinea",
+        "code": "ho"
+    },
+    {
+        "languageQID": "Q33270",
+        "languageLabel": "Ho",
+        "languageDescription": "Munda language of the Austro-Asiatic language family spoken primarily in India",
+        "code": "hoc"
+    },
+    {
+        "languageQID": "Q6654",
+        "languageLabel": "Croatian",
+        "languageDescription": "South Slavic language spoken in Croatia",
+        "code": "hr"
+    },
+    {
+        "languageQID": "Q304049",
+        "languageLabel": "Hunsrik",
+        "languageDescription": "Germanic language spoken in Brazil",
+        "code": "hrx"
+    },
+    {
+        "languageQID": "Q13248",
+        "languageLabel": "Upper Sorbian",
+        "languageDescription": "language spoken by Sorbs in Germany in the historical province of Upper Lusatia",
+        "code": "hsb"
+    },
+    {
+        "languageQID": "Q33491",
+        "languageLabel": "Haitian Creole",
+        "languageDescription": "language spoken in Haiti",
+        "code": "ht"
+    },
+    {
+        "languageQID": "Q9067",
+        "languageLabel": "Hungarian",
+        "languageDescription": "Uralic language",
+        "code": "hu"
+    },
+    {
+        "languageQID": "Q64427347",
+        "languageLabel": "formal Hungarian",
+        "languageDescription": "formal form of Hungarian language",
+        "code": "hu-formal"
+    },
+    {
+        "languageQID": "Q8785",
+        "languageLabel": "Armenian",
+        "languageDescription": "Indo-European language",
+        "code": "hy"
+    },
+    {
+        "languageQID": "Q180945",
+        "languageLabel": "Western Armenian",
+        "languageDescription": "one of the two languages of the Armenian language branch",
+        "code": "hyw"
+    },
+    {
+        "languageQID": "Q33315",
+        "languageLabel": "Herero",
+        "languageDescription": "Bantu language of Nambia and Botswana",
+        "code": "hz"
+    },
+    {
+        "languageQID": "Q35934",
+        "languageLabel": "Interlingua",
+        "languageDescription": "international auxiliary language created by IALA",
+        "code": "ia"
+    },
+    {
+        "languageQID": "Q33424",
+        "languageLabel": "Iban",
+        "languageDescription": "Coastal Dayak language spoken by Iban people",
+        "code": "iba"
+    },
+    {
+        "languageQID": "Q9240",
+        "languageLabel": "Indonesian",
+        "languageDescription": "official language of Indonesia",
+        "code": "id"
+    },
+    {
+        "languageQID": "Q35850",
+        "languageLabel": "Interlingue",
+        "languageDescription": "international auxiliary language created 1922",
+        "code": "ie"
+    },
+    {
+        "languageQID": "Q33578",
+        "languageLabel": "Igbo",
+        "languageDescription": "Niger–Congo language of the Igbo people, mainly spoken in Nigeria",
+        "code": "ig"
+    },
+    {
+        "languageQID": "Q34235",
+        "languageLabel": "Nuosu",
+        "languageDescription": "the prestige language of the Yi people",
+        "code": "ii"
+    },
+    {
+        "languageQID": "Q966439",
+        "languageLabel": "Proto-Indo-Iranian",
+        "languageDescription": "reconstructed proto-language of the Indo-Iranian branch of Indo-European",
+        "code": "iir-pro"
+    },
+    {
+        "languageQID": "Q27183",
+        "languageLabel": "Iñupiaq",
+        "languageDescription": "group of dialects of the Inuit language",
+        "code": "ik"
+    },
+    {
+        "languageQID": "Q64427348",
+        "languageLabel": "Eastern Canadian Inuktut in Aboriginal syllabics",
+        "languageDescription": "Eastern Canadian Inuktut written in Canadian Aboriginal syllabics",
+        "code": "ike-cans"
+    },
+    {
+        "languageQID": "Q64362987",
+        "languageLabel": "Eastern Canadian Inuktut in Latin script",
+        "languageDescription": "Eastern Canadian Inuktut written in Latin script",
+        "code": "ike-latn"
+    },
+    {
+        "languageQID": "Q35936",
+        "languageLabel": "Ilocano",
+        "languageDescription": "Austronesian language spoken by the native Ilocano people of the Philippines",
+        "code": "ilo"
+    },
+    {
+        "languageQID": "Q3236316",
+        "languageLabel": "Middle Indo-Aryan",
+        "languageDescription": "historical group of Indo-Aryan languages which developed from 600 BCE to 1000 CE, and used in literature until about 1500 CE",
+        "code": "inc-mid"
+    },
+    {
+        "languageQID": "Q48767781",
+        "languageLabel": "Old Hindustani",
+        "languageDescription": "archaic form of Hindustani (Old Hindi or Old Urdu) as used up to the 15th century",
+        "code": "inc-ohi"
+    },
+    {
+        "languageQID": "Q115270971",
+        "languageLabel": "Old Punjabi",
+        "languageDescription": "historical chronolect of Punjabi, spoken from the 15th century to the 18th century",
+        "code": "inc-opa"
+    },
+    {
+        "languageQID": "Q23808344",
+        "languageLabel": "Proto-Indo-Aryan",
+        "languageDescription": "protolanguage of the Indo-Aryan language family",
+        "code": "inc-pro"
+    },
+    {
+        "languageQID": "Q1703347",
+        "languageLabel": "Proto-Balto-Slavic",
+        "languageDescription": "reconstructed proto-language",
+        "code": "ine-bsl-pro"
+    },
+    {
+        "languageQID": "Q37178",
+        "languageLabel": "Proto-Indo-European",
+        "languageDescription": "proto-language of the Indo-European languages",
+        "code": "ine-pro"
+    },
+    {
+        "languageQID": "Q33509",
+        "languageLabel": "Ingush",
+        "languageDescription": "language spoken by the Ingush people",
+        "code": "inh"
+    },
+    {
+        "languageQID": "Q35224",
+        "languageLabel": "Ido",
+        "languageDescription": "constructed international auxiliary language",
+        "code": "io"
+    },
+    {
+        "languageQID": "Q6841465",
+        "languageLabel": "Middle Iranian",
+        "languageDescription": "ancestors of New Iranian languages",
+        "code": "ira-mid"
+    },
+    {
+        "languageQID": "Q4167865",
+        "languageLabel": "Proto-Iranian",
+        "languageDescription": "reconstructed ancestor language of Persian, Avestan, Kurdish, Pashto and others",
+        "code": "ira-pro"
+    },
+    {
+        "languageQID": "Q294",
+        "languageLabel": "Icelandic",
+        "languageDescription": "North Germanic language mainly spoken in Iceland",
+        "code": "is"
+    },
+    {
+        "languageQID": "Q33419",
+        "languageLabel": "Ishkashimi",
+        "languageDescription": "one of the Pamir languages of the Southeastern Iranian language group",
+        "code": "isk"
+    },
+    {
+        "languageQID": "Q652",
+        "languageLabel": "Italian",
+        "languageDescription": "Romance language",
+        "code": "it"
+    },
+    {
+        "languageQID": "Q695526",
+        "languageLabel": "Tarantino",
+        "languageDescription": "Italian dialect",
+        "code": "it-x-tara"
+    },
+    {
+        "languageQID": "Q17102720",
+        "languageLabel": "Proto-Italic",
+        "languageDescription": "Ancestor of Latin and other Italic languages",
+        "code": "itc-pro"
+    },
+    {
+        "languageQID": "Q29921",
+        "languageLabel": "Inuktitut",
+        "languageDescription": "name of several Inuit languages spoken in Canada",
+        "code": "iu"
+    },
+    {
+        "languageQID": "Q5287",
+        "languageLabel": "Japanese",
+        "languageDescription": "language spoken in East Asia",
+        "code": "ja"
+    },
+    {
+        "languageQID": "Q53979504",
+        "languageLabel": "Japanese written in kanji",
+        "languageDescription": "written language",
+        "code": "ja-hani"
+    },
+    {
+        "languageQID": "Q35939",
+        "languageLabel": "Jamaican Patois",
+        "languageDescription": "English-based creole spoken in and around Jamaica; it additionally takes influence from various African languages, particularly Akan",
+        "code": "jam"
+    },
+    {
+        "languageQID": "Q3915769",
+        "languageLabel": "Jambi Malay",
+        "languageDescription": "language in Indonesia",
+        "code": "jax"
+    },
+    {
+        "languageQID": "Q36350",
+        "languageLabel": "Lojban",
+        "languageDescription": "constructed language based on predicate logic",
+        "code": "jbo"
+    },
+    {
+        "languageQID": "Q3924309",
+        "languageLabel": "Proto-Japonic",
+        "languageDescription": "proto-language",
+        "code": "jpx-pro"
+    },
+    {
+        "languageQID": "Q1340322",
+        "languageLabel": "Jutlandic",
+        "languageDescription": "Danish dialect",
+        "code": "jut"
+    },
+    {
+        "languageQID": "Q33549",
+        "languageLabel": "Javanese",
+        "languageDescription": "Austronesian language",
+        "code": "jv"
+    },
+    {
+        "languageQID": "Q33219",
+        "languageLabel": "Banyumasan Javanese",
+        "languageDescription": "dialect of Javanese spoken in Java, Indonesia",
+        "code": "jv-x-bms"
+    },
+    {
+        "languageQID": "Q8108",
+        "languageLabel": "Georgian",
+        "languageDescription": "Kartvelian language",
+        "code": "ka"
+    },
+    {
+        "languageQID": "Q33541",
+        "languageLabel": "Karakalpak",
+        "languageDescription": "one of the Turkic languages in Central Asia, the state language of Karakalpakstan",
+        "code": "kaa"
+    },
+    {
+        "languageQID": "Q35853",
+        "languageLabel": "Kabyle",
+        "languageDescription": "Berber language spoken by the Kabyle people",
+        "code": "kab"
+    },
+    {
+        "languageQID": "Q2779411",
+        "languageLabel": "Ketagalan",
+        "languageDescription": "extinct Austronesian language of Taiwan",
+        "code": "kae"
+    },
+    {
+        "languageQID": "Q33522",
+        "languageLabel": "Kabardian",
+        "languageDescription": "Northwest Caucasian language",
+        "code": "kbd"
+    },
+    {
+        "languageQID": "Q64362989",
+        "languageLabel": "Kabardian in Cyrillic script",
+        "languageDescription": "Kabardian written in Cyrillic",
+        "code": "kbd-cyrl"
+    },
+    {
+        "languageQID": "Q12952626",
+        "languageLabel": "Khamba",
+        "languageDescription": "language",
+        "code": "kbg"
+    },
+    {
+        "languageQID": "Q35475",
+        "languageLabel": "Kabiye",
+        "languageDescription": "Eastern Gurunsi language primarily of northern Togo",
+        "code": "kbp"
+    },
+    {
+        "languageQID": "Q3912765",
+        "languageLabel": "Tyap",
+        "languageDescription": "Niger–Congo language spoken in central Nigeria",
+        "code": "kcg"
+    },
+    {
+        "languageQID": "Q35963",
+        "languageLabel": "Cape Verdean Creole",
+        "languageDescription": "Portuguese-based creole language spoken in Cape Verde",
+        "code": "kea"
+    },
+    {
+        "languageQID": "Q33702",
+        "languageLabel": "Kongo",
+        "languageDescription": "Bantu language spoken in Angola, Congo Brazzaville and Congo Kinshasa",
+        "code": "kg"
+    },
+    {
+        "languageQID": "Q2665734",
+        "languageLabel": "Kaingang",
+        "languageDescription": "language of Kaingang people",
+        "code": "kgp"
+    },
+    {
+        "languageQID": "Q33584",
+        "languageLabel": "Khasi",
+        "languageDescription": "Austroasiatic language of Meghalaya state, India",
+        "code": "kha"
+    },
+    {
+        "languageQID": "Q56601",
+        "languageLabel": "Khams Tibetan",
+        "languageDescription": "language",
+        "code": "khg"
+    },
+    {
+        "languageQID": "Q938216",
+        "languageLabel": "Khowar",
+        "languageDescription": "Indo-Aryan language of the Dardic group spoken in Chitral and Gilgit region of Pakistan",
+        "code": "khw"
+    },
+    {
+        "languageQID": "Q33587",
+        "languageLabel": "Gikuyu",
+        "languageDescription": "Bantu language in Kenya",
+        "code": "ki"
+    },
+    {
+        "languageQID": "Q3944007",
+        "languageLabel": "Northern Zazaki",
+        "languageDescription": "dialect of Zaza",
+        "code": "kiu"
+    },
+    {
+        "languageQID": "Q1405077",
+        "languageLabel": "Kwanyama",
+        "languageDescription": "language of Angola and Namibia",
+        "code": "kj"
+    },
+    {
+        "languageQID": "Q33335",
+        "languageLabel": "Khmu",
+        "languageDescription": "language",
+        "code": "kjg"
+    },
+    {
+        "languageQID": "Q33575",
+        "languageLabel": "Khakas",
+        "languageDescription": "Turkic language spoken by the Khakas people",
+        "code": "kjh"
+    },
+    {
+        "languageQID": "Q5330390",
+        "languageLabel": "Eastern Pwo",
+        "languageDescription": "Karenic language",
+        "code": "kjp"
+    },
+    {
+        "languageQID": "Q9252",
+        "languageLabel": "Kazakh",
+        "languageDescription": "Turkic language in Central Asia, state language of Kazakhstan",
+        "code": "kk"
+    },
+    {
+        "languageQID": "Q64362991",
+        "languageLabel": "Kazakh in Arabic script",
+        "languageDescription": "language expressed in a particular alphabet",
+        "code": "kk-arab"
+    },
+    {
+        "languageQID": "Q64427349",
+        "languageLabel": "Kazakh in China",
+        "languageDescription": "local variant of the Kazakh language",
+        "code": "kk-cn"
+    },
+    {
+        "languageQID": "Q64362992",
+        "languageLabel": "Kazakh in Cyrillic script",
+        "languageDescription": "language expressed in a particular alphabet",
+        "code": "kk-cyrl"
+    },
+    {
+        "languageQID": "Q64427350",
+        "languageLabel": "Kazakh in Kazakhstan",
+        "languageDescription": "local variant of the Kazakh language",
+        "code": "kk-kz"
+    },
+    {
+        "languageQID": "Q64362993",
+        "languageLabel": "Kazakh in Latin script",
+        "languageDescription": "language expressed in a particular alphabet",
+        "code": "kk-latn"
+    },
+    {
+        "languageQID": "Q64427352",
+        "languageLabel": "Kazakh in Turkey",
+        "languageDescription": "local variant of the Kazakh language",
+        "code": "kk-tr"
+    },
+    {
+        "languageQID": "Q25355",
+        "languageLabel": "Greenlandic",
+        "languageDescription": "Eskimo-Aleut language spoken in Greenland",
+        "code": "kl"
+    },
+    {
+        "languageQID": "Q9205",
+        "languageLabel": "Khmer",
+        "languageDescription": "Austroasiatic language of Cambodia",
+        "code": "km"
+    },
+    {
+        "languageQID": "Q35373",
+        "languageLabel": "Khorasani Turkic",
+        "languageDescription": "language",
+        "code": "kmz"
+    },
+    {
+        "languageQID": "Q33673",
+        "languageLabel": "Kannada",
+        "languageDescription": "Dravidian language native to South India",
+        "code": "kn"
+    },
+    {
+        "languageQID": "Q9176",
+        "languageLabel": "Korean",
+        "languageDescription": "language spoken in Korean Peninsula and some parts of North-eastern China",
+        "code": "ko"
+    },
+    {
+        "languageQID": "Q18784",
+        "languageLabel": "North Korean standard language",
+        "languageDescription": "North Korean standard version of the Korean language",
+        "code": "ko-kp"
+    },
+    {
+        "languageQID": "Q18795",
+        "languageLabel": "South Korean standard language",
+        "languageDescription": "standard form of Korean in South Korea, based on the Seoul dialect",
+        "code": "ko-kr"
+    },
+    {
+        "languageQID": "Q56318",
+        "languageLabel": "Permyak",
+        "languageDescription": "Uralic language spoken in Perm Krai, Russia",
+        "code": "koi"
+    },
+    {
+        "languageQID": "Q28304",
+        "languageLabel": "Koyukon",
+        "languageDescription": "Indigenous language of North America",
+        "code": "koy"
+    },
+    {
+        "languageQID": "Q36094",
+        "languageLabel": "Kanuri",
+        "languageDescription": "Saharan language",
+        "code": "kr"
+    },
+    {
+        "languageQID": "Q33714",
+        "languageLabel": "Karachay-Balkar",
+        "languageDescription": "Turkic language",
+        "code": "krc"
+    },
+    {
+        "languageQID": "Q35744",
+        "languageLabel": "Krio",
+        "languageDescription": "English-based creole language spoken in Sierra Leone",
+        "code": "kri"
+    },
+    {
+        "languageQID": "Q33720",
+        "languageLabel": "Karay-a",
+        "languageDescription": "Visayan language",
+        "code": "krj"
+    },
+    {
+        "languageQID": "Q33557",
+        "languageLabel": "Karelian",
+        "languageDescription": "Finnic language",
+        "code": "krl"
+    },
+    {
+        "languageQID": "Q35704",
+        "languageLabel": "Karon",
+        "languageDescription": "language",
+        "code": "krx"
+    },
+    {
+        "languageQID": "Q33552",
+        "languageLabel": "Kashmiri",
+        "languageDescription": "language from the Dardic subgroup of the Indo-Aryan languages",
+        "code": "ks"
+    },
+    {
+        "languageQID": "Q64362994",
+        "languageLabel": "Kashmiri in Arabic script",
+        "languageDescription": "language expressed in a particular alphabet",
+        "code": "ks-arab"
+    },
+    {
+        "languageQID": "Q64362995",
+        "languageLabel": "Kashmiri in Devanagari script",
+        "languageDescription": "language expressed in a particular alphabet",
+        "code": "ks-deva"
+    },
+    {
+        "languageQID": "Q4624",
+        "languageLabel": "Kölsch",
+        "languageDescription": "dialect of the Ripuarian Central German group of languages",
+        "code": "ksh"
+    },
+    {
+        "languageQID": "Q32145",
+        "languageLabel": "Ripuarian",
+        "languageDescription": "German dialect group",
+        "code": "ksh"
+    },
+    {
+        "languageQID": "Q56410",
+        "languageLabel": "S'gaw Karen",
+        "languageDescription": "language",
+        "code": "ksw"
+    },
+    {
+        "languageQID": "Q36163",
+        "languageLabel": "Kurmanji",
+        "languageDescription": "Kurdish language spoken in eastern Turkey, northern Syria, northern Iraq and in Armenia",
+        "code": "ku"
+    },
+    {
+        "languageQID": "Q36368",
+        "languageLabel": "Kurdish",
+        "languageDescription": "language of Kurds",
+        "code": "ku"
+    },
+    {
+        "languageQID": "Q64362996",
+        "languageLabel": "Kurdish in Arabic script",
+        "languageDescription": "language expressed in a particular alphabet",
+        "code": "ku-arab"
+    },
+    {
+        "languageQID": "Q64362997",
+        "languageLabel": "Kurdish in Latin script",
+        "languageDescription": "language expressed in a particular alphabet",
+        "code": "ku-latn"
+    },
+    {
+        "languageQID": "Q36209",
+        "languageLabel": "Kumyk",
+        "languageDescription": "Turkic language",
+        "code": "kum"
+    },
+    {
+        "languageQID": "Q33434",
+        "languageLabel": "Kutenai",
+        "languageDescription": "Indigenous language of Montana, Idaho, and British Columbia",
+        "code": "kut"
+    },
+    {
+        "languageQID": "Q36126",
+        "languageLabel": "Komi",
+        "languageDescription": "Uralic language that is spoken on the Republic of Komi, Russia",
+        "code": "kv"
+    },
+    {
+        "languageQID": "Q3195442",
+        "languageLabel": "Kerinci",
+        "languageDescription": "Western Sumatran language of Kerinci people originating from Kerinci region in Sumatra",
+        "code": "kvr"
+    },
+    {
+        "languageQID": "Q25289",
+        "languageLabel": "Cornish",
+        "languageDescription": "Brythonic Celtic language indigenous to Cornwall",
+        "code": "kw"
+    },
+    {
+        "languageQID": "Q9255",
+        "languageLabel": "Kyrgyz",
+        "languageDescription": "Kipchak Turkic language of Central Asia",
+        "code": "ky"
+    },
+    {
+        "languageQID": "Q95397566",
+        "languageLabel": "Kyrgyz Arabic alphabet",
+        "languageDescription": "language expressed in a particular alphabet",
+        "code": "ky-arab"
+    },
+    {
+        "languageQID": "Q94989582",
+        "languageLabel": "Kyrgyz in Cyrillic script",
+        "languageDescription": "language expressed in a particular alphabet",
+        "code": "ky-cyrl"
+    },
+    {
+        "languageQID": "Q397",
+        "languageLabel": "Latin",
+        "languageDescription": "Indo-European language of the Italic branch",
+        "code": "la"
+    },
+    {
+        "languageQID": "Q1163234",
+        "languageLabel": "Medieval Latin",
+        "languageDescription": "form of Latin used in the Middle Ages",
+        "code": "la-x-medieval"
+    },
+    {
+        "languageQID": "Q1248221",
+        "languageLabel": "Neo-Latin",
+        "languageDescription": "form of the Latin language used from the 14th century to present",
+        "code": "la-x-new"
+    },
+    {
+        "languageQID": "Q36196",
+        "languageLabel": "Judaeo-Spanish",
+        "languageDescription": "language derived from Medieval Spanish spoken by Sephardic Jews",
+        "code": "lad"
+    },
+    {
+        "languageQID": "Q584983",
+        "languageLabel": "Rangi",
+        "languageDescription": "language",
+        "code": "lag"
+    },
+    {
+        "languageQID": "Q9051",
+        "languageLabel": "Luxembourgish",
+        "languageDescription": "Germanic language or language variety spoken in Luxembourg",
+        "code": "lb"
+    },
+    {
+        "languageQID": "Q36206",
+        "languageLabel": "Lak",
+        "languageDescription": "Northeast Caucasian language",
+        "code": "lbe"
+    },
+    {
+        "languageQID": "Q6695015",
+        "languageLabel": "Luang",
+        "languageDescription": "language",
+        "code": "lex"
+    },
+    {
+        "languageQID": "Q31746",
+        "languageLabel": "Lezgian",
+        "languageDescription": "Northeast Caucasian language that belongs to the Lezgic languages",
+        "code": "lez"
+    },
+    {
+        "languageQID": "Q146803",
+        "languageLabel": "Lingua Franca Nova",
+        "languageDescription": "auxiliary constructed language, originally created by C. George Boeree, and largely based on a Romance substrate partially creolized then modified by some evolutive rules of simplification",
+        "code": "lfn"
+    },
+    {
+        "languageQID": "Q33368",
+        "languageLabel": "Luganda",
+        "languageDescription": "Bantu language of Uganda",
+        "code": "lg"
+    },
+    {
+        "languageQID": "Q102172",
+        "languageLabel": "Limburgish",
+        "languageDescription": "Low Franconian group of dialects",
+        "code": "li"
+    },
+    {
+        "languageQID": "Q36106",
+        "languageLabel": "Ligurian",
+        "languageDescription": "Gallo-Romance language (for the ancient extinct language use Q36104)",
+        "code": "lij"
+    },
+    {
+        "languageQID": "Q56422",
+        "languageLabel": "Monégasque",
+        "languageDescription": "Gallo-Italic language or dialect spoken in Monaco",
+        "code": "lij-mc"
+    },
+    {
+        "languageQID": "Q33698",
+        "languageLabel": "Livonian",
+        "languageDescription": "Southern Finnic language closely related to Estonian",
+        "code": "liv"
+    },
+    {
+        "languageQID": "Q56483",
+        "languageLabel": "Laki",
+        "languageDescription": "Iranian language",
+        "code": "lki"
+    },
+    {
+        "languageQID": "Q33537",
+        "languageLabel": "Lakota",
+        "languageDescription": "Siouan language spoken by the Lakota people of the Sioux tribes",
+        "code": "lkt"
+    },
+    {
+        "languageQID": "Q36202",
+        "languageLabel": "Ladin",
+        "languageDescription": "Romance language",
+        "code": "lld"
+    },
+    {
+        "languageQID": "Q33754",
+        "languageLabel": "Lombard",
+        "languageDescription": "Gallo-Italic language spoken in the Italian region of Lombardy",
+        "code": "lmo"
+    },
+    {
+        "languageQID": "Q2669891",
+        "languageLabel": "Bergamasque",
+        "languageDescription": "dialect of Eastern Lombard",
+        "code": "lmo-x-berg"
+    },
+    {
+        "languageQID": "Q3706583",
+        "languageLabel": "Cremish",
+        "languageDescription": "Eastern dialect of Lombard spoken in the Cremasque Territory",
+        "code": "lmo-x-cremish"
+    },
+    {
+        "languageQID": "Q547462",
+        "languageLabel": "Milanese",
+        "languageDescription": "dialect of Western Lombard",
+        "code": "lmo-x-milanese"
+    },
+    {
+        "languageQID": "Q36217",
+        "languageLabel": "Lingala",
+        "languageDescription": "Bantu language spoken in western Central Africa",
+        "code": "ln"
+    },
+    {
+        "languageQID": "Q9211",
+        "languageLabel": "Lao",
+        "languageDescription": "Kra–Dai language of Southeast Asia",
+        "code": "lo"
+    },
+    {
+        "languageQID": "Q33628",
+        "languageLabel": "Lozi",
+        "languageDescription": "Bantu language spoken in southern Africa",
+        "code": "loz"
+    },
+    {
+        "languageQID": "Q19933293",
+        "languageLabel": "Northern Luri",
+        "languageDescription": "language",
+        "code": "lrc"
+    },
+    {
+        "languageQID": "Q9083",
+        "languageLabel": "Lithuanian",
+        "languageDescription": "Baltic language spoken in Lithuania",
+        "code": "lt"
+    },
+    {
+        "languageQID": "Q36212",
+        "languageLabel": "Latgalian",
+        "languageDescription": "historical variety of Latvian, sometimes considered a separate Baltic language",
+        "code": "ltg"
+    },
+    {
+        "languageQID": "Q34173",
+        "languageLabel": "Luba-Kasai",
+        "languageDescription": "Bantu language spoken in DR Congo",
+        "code": "lua"
+    },
+    {
+        "languageQID": "Q36147",
+        "languageLabel": "Mizo",
+        "languageDescription": "Tibeto-Burman language spoken in India and Myanmar",
+        "code": "lus"
+    },
+    {
+        "languageQID": "Q12952748",
+        "languageLabel": "Southern Luri",
+        "languageDescription": "language spoken in Iran",
+        "code": "luz"
+    },
+    {
+        "languageQID": "Q9078",
+        "languageLabel": "Latvian",
+        "languageDescription": "Baltic language, official in Latvia and the European Union",
+        "code": "lv"
+    },
+    {
+        "languageQID": "Q770547",
+        "languageLabel": "Lavukaleve",
+        "languageDescription": "language",
+        "code": "lvk"
+    },
+    {
+        "languageQID": "Q37041",
+        "languageLabel": "Classical Chinese",
+        "languageDescription": "language of the Sino-Tibetan language family in written form (ISO 639-3: lzh) as opposed to the spoken, known as Old Chinese (ISO 639-3: och) or Middle Chinese (ISO 639-3: ltc)",
+        "code": "lzh"
+    },
+    {
+        "languageQID": "Q1160372",
+        "languageLabel": "Laz",
+        "languageDescription": "South Caucasian language in the Kartvelian family, close to Mingrelian, spoken by the Laz people on the southeastern shore of the Black Sea",
+        "code": "lzz"
+    },
+    {
+        "languageQID": "Q36213",
+        "languageLabel": "Madurese",
+        "languageDescription": "Malayo-Polynesian language spoken in Madura",
+        "code": "mad"
+    },
+    {
+        "languageQID": "Q36109",
+        "languageLabel": "Maithili",
+        "languageDescription": "Indo-Aryan language spoken in India and Nepal",
+        "code": "mai"
+    },
+    {
+        "languageQID": "Q33219",
+        "languageLabel": "Banyumasan Javanese",
+        "languageDescription": "dialect of Javanese spoken in Java, Indonesia",
+        "code": "map-bms"
+    },
+    {
+        "languageQID": "Q49230",
+        "languageLabel": "Proto-Austronesian",
+        "languageDescription": "reconstructed ancestor of the Austronesian languages",
+        "code": "map-pro"
+    },
+    {
+        "languageQID": "Q13343",
+        "languageLabel": "Moksha",
+        "languageDescription": "language part of the Mordvinic branch of the Uralic languages and the majority language in the western part of Mordovia",
+        "code": "mdf"
+    },
+    {
+        "languageQID": "Q33661",
+        "languageLabel": "Mauritian Creole",
+        "languageDescription": "French-based creole spoken in Mauritius",
+        "code": "mfe"
+    },
+    {
+        "languageQID": "Q7930",
+        "languageLabel": "Malagasy",
+        "languageDescription": "language spoken in Madagascar",
+        "code": "mg"
+    },
+    {
+        "languageQID": "Q36280",
+        "languageLabel": "Marshallese",
+        "languageDescription": "Micronesian language",
+        "code": "mh"
+    },
+    {
+        "languageQID": "Q3906614",
+        "languageLabel": "Meadow Mari",
+        "languageDescription": "Mari language in the Uralic language family",
+        "code": "mhr"
+    },
+    {
+        "languageQID": "Q36451",
+        "languageLabel": "Māori",
+        "languageDescription": "Polynesian language spoken in New Zealand",
+        "code": "mi"
+    },
+    {
+        "languageQID": "Q13321",
+        "languageLabel": "Mi'kmaq",
+        "languageDescription": "Eastern Algonquian language spoken by nearly 11,000 Mi'kmaq in Canada and the United States",
+        "code": "mic"
+    },
+    {
+        "languageQID": "Q13324",
+        "languageLabel": "Minangkabau",
+        "languageDescription": "Malayic language spoken predominantly by the Minangkabau ethnic group",
+        "code": "min"
+    },
+    {
+        "languageQID": "Q22283016",
+        "languageLabel": "uncoded language",
+        "languageDescription": "language which does not yet have an assigned language code",
+        "code": "mis"
+    },
+    {
+        "languageQID": "Q10901674",
+        "languageLabel": "Xiongnu",
+        "languageDescription": "supposed language of Xiongnu people",
+        "code": "mis-xnu"
+    },
+    {
+        "languageQID": "Q9296",
+        "languageLabel": "Macedonian",
+        "languageDescription": "South Slavic language mostly spoken in North Macedonia",
+        "code": "mk"
+    },
+    {
+        "languageQID": "Q36236",
+        "languageLabel": "Malayalam",
+        "languageDescription": "Dravidian language of Southern India",
+        "code": "ml"
+    },
+    {
+        "languageQID": "Q9246",
+        "languageLabel": "Mongolian",
+        "languageDescription": "official language of Mongolia",
+        "code": "mn"
+    },
+    {
+        "languageQID": "Q33638",
+        "languageLabel": "Manchu",
+        "languageDescription": "Tungusic language originating from Northeast China",
+        "code": "mnc"
+    },
+    {
+        "languageQID": "Q33868",
+        "languageLabel": "Meitei",
+        "languageDescription": "Sino-Tibetan language",
+        "code": "mni"
+    },
+    {
+        "languageQID": "Q13349",
+        "languageLabel": "Mon",
+        "languageDescription": "Austroasiatic language spoken by the Mon in Myanmar and Thailand",
+        "code": "mnw"
+    },
+    {
+        "languageQID": "Q100271134",
+        "languageLabel": "Mon-Pali",
+        "languageDescription": "monastic language used by the Mon people around the 1st century AD",
+        "code": "mnw-pi"
+    },
+    {
+        "languageQID": "Q13351",
+        "languageLabel": "Innu-aimun",
+        "languageDescription": "Cree language of eastern Canada",
+        "code": "moe"
+    },
+    {
+        "languageQID": "Q36096",
+        "languageLabel": "Mooré",
+        "languageDescription": "Gur language spoken in Burkina Faso and neighbouring countries",
+        "code": "mos"
+    },
+    {
+        "languageQID": "Q1571",
+        "languageLabel": "Marathi",
+        "languageDescription": "Indo-Aryan language",
+        "code": "mr"
+    },
+    {
+        "languageQID": "Q4175893",
+        "languageLabel": "Mara",
+        "languageDescription": "language spoken by Mara people living in South Mizoram, India and Chin state in Myanmar.",
+        "code": "mrh"
+    },
+    {
+        "languageQID": "Q1776032",
+        "languageLabel": "Hill Mari",
+        "languageDescription": "Mari language in the Uralic language family",
+        "code": "mrj"
+    },
+    {
+        "languageQID": "Q9237",
+        "languageLabel": "Malay",
+        "languageDescription": "Austronesian macrolanguage, basis for Malaysian Malay and Indonesian",
+        "code": "ms"
+    },
+    {
+        "languageQID": "Q15065",
+        "languageLabel": "Malaysian Malay",
+        "languageDescription": "standard Malay dialect spoken in Malaysia",
+        "code": "ms-my"
+    },
+    {
+        "languageQID": "Q9166",
+        "languageLabel": "Maltese",
+        "languageDescription": "Semitic language spoken mostly in Malta",
+        "code": "mt"
+    },
+    {
+        "languageQID": "Q3833010",
+        "languageLabel": "Mixe",
+        "languageDescription": "language family belonging to the Mixe–Zoque indigenous language family from southern Mexico",
+        "code": "mto"
+    },
+    {
+        "languageQID": "Q615660",
+        "languageLabel": "Musi",
+        "languageDescription": "Malayic variety spoken in southern Sumatera",
+        "code": "mui"
+    },
+    {
+        "languageQID": "Q20923490",
+        "languageLabel": "multiple languages",
+        "languageDescription": "characteristic of material that includes more than one language",
+        "code": "mul"
+    },
+    {
+        "languageQID": "Q105102373",
+        "languageLabel": "Proto-Munda",
+        "languageDescription": "reconstructed proto-language of the Munda languages of South Asia",
+        "code": "mun-pro"
+    },
+    {
+        "languageQID": "Q523014",
+        "languageLabel": "Muscogee",
+        "languageDescription": "Indigenous American language",
+        "code": "mus"
+    },
+    {
+        "languageQID": "Q13330",
+        "languageLabel": "Mirandese",
+        "languageDescription": "Romance language belonging to the Astur-Leonese linguistic group, sparsely spoken in a small area of northeastern Portugal",
+        "code": "mwl"
+    },
+    {
+        "languageQID": "Q56312",
+        "languageLabel": "Marwari",
+        "languageDescription": "language spoken in Rajasthan, India",
+        "code": "mwr"
+    },
+    {
+        "languageQID": "Q13365",
+        "languageLabel": "Mentawai",
+        "languageDescription": "Austronesian language, spoken by the Mentawai-people of the Mentawai Islands, West Sumatra",
+        "code": "mwv"
+    },
+    {
+        "languageQID": "Q9228",
+        "languageLabel": "Burmese",
+        "languageDescription": "Sino-Tibetan language of Myanmar",
+        "code": "my"
+    },
+    {
+        "languageQID": "Q29952",
+        "languageLabel": "Erzya",
+        "languageDescription": "Uralic language spoken in Russia",
+        "code": "myv"
+    },
+    {
+        "languageQID": "Q13356",
+        "languageLabel": "Mazanderani",
+        "languageDescription": "Northwestern Iranian language spoken mainly in Iran's Mazandaran, Golestan, Gilan, Semnan, Tehran, Alborz and Qazvin provinces",
+        "code": "mzn"
+    },
+    {
+        "languageQID": "Q13307",
+        "languageLabel": "Nauruan",
+        "languageDescription": "Austronesian language spoken in Nauru",
+        "code": "na"
+    },
+    {
+        "languageQID": "Q13300",
+        "languageLabel": "Nahuatl",
+        "languageDescription": "language of the Nahuan branch of the Uto-Aztecan language family",
+        "code": "nah"
+    },
+    {
+        "languageQID": "Q36495",
+        "languageLabel": "Southern Min",
+        "languageDescription": "branch of the Min Chinese language",
+        "code": "nan"
+    },
+    {
+        "languageQID": "Q33845",
+        "languageLabel": "Neapolitan",
+        "languageDescription": "Italo-Dalmatian language spoken in southern Italy",
+        "code": "nap"
+    },
+    {
+        "languageQID": "Q695526",
+        "languageLabel": "Tarantino",
+        "languageDescription": "Italian dialect",
+        "code": "nap-x-tara"
+    },
+    {
+        "languageQID": "Q25167",
+        "languageLabel": "Bokmål",
+        "languageDescription": "one of two official written standards for the Norwegian language",
+        "code": "nb"
+    },
+    {
+        "languageQID": "Q191769",
+        "languageLabel": "Norwegian Wikipedias",
+        "languageDescription": "umbrella term for the two separate Norwegian-language editions of Wikipedia (Nynorsk [nn] and Bokmål/Riksmål [nb]) which shared a single wiki until the creation of [nn] and redefinition of [no] as Bokmål/Riksmål only – prefix \"nb\" redirects to \"no\"",
+        "code": "nb"
+    },
+    {
+        "languageQID": "Q25433",
+        "languageLabel": "Low German",
+        "languageDescription": "West Germanic language spoken mainly in northern Germany and the eastern part of the Netherlands",
+        "code": "nds"
+    },
+    {
+        "languageQID": "Q516137",
+        "languageLabel": "Dutch Low Saxon",
+        "languageDescription": "group of Low Saxon dialects spoken in the northeastern Netherlands",
+        "code": "nds-nl"
+    },
+    {
+        "languageQID": "Q33823",
+        "languageLabel": "Nepali",
+        "languageDescription": "official language of Nepal",
+        "code": "ne"
+    },
+    {
+        "languageQID": "Q33979",
+        "languageLabel": "Newar",
+        "languageDescription": "Sino-Tibetan language of central-eastern Nepal",
+        "code": "new"
+    },
+    {
+        "languageQID": "Q33900",
+        "languageLabel": "Ndonga",
+        "languageDescription": "Bantu language spoken in Namibia and parts of Angola",
+        "code": "ng"
+    },
+    {
+        "languageQID": "Q36489",
+        "languageLabel": "Ovambo",
+        "languageDescription": "Bantu language",
+        "code": "ng"
+    },
+    {
+        "languageQID": "Q2407831",
+        "languageLabel": "Nias",
+        "languageDescription": "Austronesian language spoken in Indonesia",
+        "code": "nia"
+    },
+    {
+        "languageQID": "Q2992872",
+        "languageLabel": "Ngaju",
+        "languageDescription": "Austronesian language spoken in Kalimantan, Indonesia",
+        "code": "nij"
+    },
+    {
+        "languageQID": "Q33790",
+        "languageLabel": "Niuean",
+        "languageDescription": "Polynesian language of Niue",
+        "code": "niu"
+    },
+    {
+        "languageQID": "Q7411",
+        "languageLabel": "Dutch",
+        "languageDescription": "West Germanic language",
+        "code": "nl"
+    },
+    {
+        "languageQID": "Q1404296",
+        "languageLabel": "Belgian Dutch",
+        "languageDescription": "form of Dutch spoken and written in Belgium",
+        "code": "nl-be"
+    },
+    {
+        "languageQID": "Q25164",
+        "languageLabel": "Nynorsk",
+        "languageDescription": "one of two official written standards for the Norwegian language",
+        "code": "nn"
+    },
+    {
+        "languageQID": "Q191769",
+        "languageLabel": "Norwegian Wikipedias",
+        "languageDescription": "umbrella term for the two separate Norwegian-language editions of Wikipedia (Nynorsk [nn] and Bokmål/Riksmål [nb]) which shared a single wiki until the creation of [nn] and redefinition of [no] as Bokmål/Riksmål only – prefix \"nb\" redirects to \"no\"",
+        "code": "nn"
+    },
+    {
+        "languageQID": "Q1420587",
+        "languageLabel": "Høgnorsk",
+        "languageDescription": "unofficial Norwegian written standard language",
+        "code": "nn-hognorsk"
+    },
+    {
+        "languageQID": "Q9043",
+        "languageLabel": "Norwegian",
+        "languageDescription": "North Germanic language spoken in Norway",
+        "code": "no"
+    },
+    {
+        "languageQID": "Q191769",
+        "languageLabel": "Norwegian Wikipedias",
+        "languageDescription": "umbrella term for the two separate Norwegian-language editions of Wikipedia (Nynorsk [nn] and Bokmål/Riksmål [nb]) which shared a single wiki until the creation of [nn] and redefinition of [no] as Bokmål/Riksmål only – prefix \"nb\" redirects to \"no\"",
+        "code": "no"
+    },
+    {
+        "languageQID": "Q565110",
+        "languageLabel": "Northern Thai",
+        "languageDescription": "language",
+        "code": "nod"
+    },
+    {
+        "languageQID": "Q33871",
+        "languageLabel": "Nogai",
+        "languageDescription": "Turkic language",
+        "code": "nog"
+    },
+    {
+        "languageQID": "Q35505",
+        "languageLabel": "Old Norse",
+        "languageDescription": "North Germanic language",
+        "code": "non"
+    },
+    {
+        "languageQID": "Q36738",
+        "languageLabel": "Novial",
+        "languageDescription": "constructed language",
+        "code": "nov"
+    },
+    {
+        "languageQID": "Q18546266",
+        "languageLabel": "N’Ko",
+        "languageDescription": "koiné language of Western Africa",
+        "code": "nqo"
+    },
+    {
+        "languageQID": "Q36785",
+        "languageLabel": "Southern Ndebele",
+        "languageDescription": "language belonging to the Nguni group of Bantu languages, one of the official languages of South Africa",
+        "code": "nr"
+    },
+    {
+        "languageQID": "Q33850",
+        "languageLabel": "Norman",
+        "languageDescription": "Romance language of northwest France",
+        "code": "nrf"
+    },
+    {
+        "languageQID": "Q56428",
+        "languageLabel": "Guernésiais",
+        "languageDescription": "variety of the Norman language spoken in Guernsey",
+        "code": "nrf-gg"
+    },
+    {
+        "languageQID": "Q56430",
+        "languageLabel": "Jèrriais",
+        "languageDescription": "variety of Norman spoken in Jersey, in the Channel Islands",
+        "code": "nrf-je"
+    },
+    {
+        "languageQID": "Q33850",
+        "languageLabel": "Norman",
+        "languageDescription": "Romance language of northwest France",
+        "code": "nrm"
+    },
+    {
+        "languageQID": "Q1704302",
+        "languageLabel": "Naskapi",
+        "languageDescription": "language",
+        "code": "nsk"
+    },
+    {
+        "languageQID": "Q33890",
+        "languageLabel": "Northern Sotho",
+        "languageDescription": "Bantu language",
+        "code": "nso"
+    },
+    {
+        "languageQID": "Q36459",
+        "languageLabel": "Kombe",
+        "languageDescription": "language",
+        "code": "nui"
+    },
+    {
+        "languageQID": "Q13310",
+        "languageLabel": "Navajo",
+        "languageDescription": "Athabaskan language of Na-Dené stock spoken in the southwestern United States",
+        "code": "nv"
+    },
+    {
+        "languageQID": "Q35761",
+        "languageLabel": "Numidian",
+        "languageDescription": "language spoken in ancient North Africa",
+        "code": "nxm"
+    },
+    {
+        "languageQID": "Q33273",
+        "languageLabel": "Chewa",
+        "languageDescription": "language of the Bantu language family",
+        "code": "ny"
+    },
+    {
+        "languageQID": "Q7049771",
+        "languageLabel": "Noongar",
+        "languageDescription": "Southwestern Australian Aboriginal language",
+        "code": "nys"
+    },
+    {
+        "languageQID": "Q107548681",
+        "languageLabel": "Noakhailla",
+        "languageDescription": "languoid spoken in greater Noakhali and southern Tripura",
+        "code": "oak"
+    },
+    {
+        "languageQID": "Q14185",
+        "languageLabel": "Occitan",
+        "languageDescription": "Romance language of Western Europe",
+        "code": "oc"
+    },
+    {
+        "languageQID": "Q33875",
+        "languageLabel": "Ojibwe",
+        "languageDescription": "Central Algonquian language",
+        "code": "oj"
+    },
+    {
+        "languageQID": "Q36584",
+        "languageLabel": "Livvi-Karelian",
+        "languageDescription": "Finno-Ugric language",
+        "code": "olo"
+    },
+    {
+        "languageQID": "Q33864",
+        "languageLabel": "Oromo",
+        "languageDescription": "Cushitic language",
+        "code": "om"
+    },
+    {
+        "languageQID": "Q28663860",
+        "languageLabel": "Proto-Oto-Manguean",
+        "languageDescription": "proto-language",
+        "code": "omq-pro"
+    },
+    {
+        "languageQID": "Q2393095",
+        "languageLabel": "O'odham",
+        "languageDescription": "Uto-Aztecan language spoken in Mexico and US",
+        "code": "ood"
+    },
+    {
+        "languageQID": "Q33810",
+        "languageLabel": "Odia",
+        "languageDescription": "Indian language",
+        "code": "or"
+    },
+    {
+        "languageQID": "Q11826887",
+        "languageLabel": "Rus' Law",
+        "languageDescription": "Legal system in Kievan Rus'",
+        "code": "orv"
+    },
+    {
+        "languageQID": "Q33968",
+        "languageLabel": "Ossetian",
+        "languageDescription": "Eastern Iranian language of Ossetia, in the Caucasus",
+        "code": "os"
+    },
+    {
+        "languageQID": "Q2600085",
+        "languageLabel": "Osage",
+        "languageDescription": "language",
+        "code": "osa"
+    },
+    {
+        "languageQID": "Q36730",
+        "languageLabel": "Ottoman Turkish",
+        "languageDescription": "language that was used in the Ottoman Empire",
+        "code": "ota"
+    },
+    {
+        "languageQID": "Q34988",
+        "languageLabel": "Old Turkic",
+        "languageDescription": "earliest attested form of Turkic, found in Göktürk and Uyghur inscriptions dating from about the 7th century to the 13th century",
+        "code": "otk"
+    },
+    {
+        "languageQID": "Q254950",
+        "languageLabel": "Övdalian",
+        "languageDescription": "Germanic language variety spoken in Sweden",
+        "code": "ovd"
+    },
+    {
+        "languageQID": "Q689894",
+        "languageLabel": "Gurmukhi",
+        "languageDescription": "Brahmic script used to write the Punjabi language; commonly used to write Punjabi in India; prominent component of Sikh religious literature",
+        "code": "pa"
+    },
+    {
+        "languageQID": "Q33879",
+        "languageLabel": "Pangasinan",
+        "languageDescription": "Austronesian language spoken in the province of Pangasinan by Pangasinense people",
+        "code": "pag"
+    },
+    {
+        "languageQID": "Q36121",
+        "languageLabel": "Kapampangan",
+        "languageDescription": "Austronesian language spoken in the Philippines",
+        "code": "pam"
+    },
+    {
+        "languageQID": "Q33856",
+        "languageLabel": "Papiamento",
+        "languageDescription": "creole language spoken in the Dutch West Indies",
+        "code": "pap"
+    },
+    {
+        "languageQID": "Q34024",
+        "languageLabel": "Picard",
+        "languageDescription": "Gallo-Romance language spoken in northern France and southern Belgium",
+        "code": "pcd"
+    },
+    {
+        "languageQID": "Q22711",
+        "languageLabel": "Pennsylvania German",
+        "languageDescription": "variety of West Central German",
+        "code": "pdc"
+    },
+    {
+        "languageQID": "Q1751432",
+        "languageLabel": "Plautdietsch",
+        "languageDescription": "language",
+        "code": "pdt"
+    },
+    {
+        "languageQID": "Q35225",
+        "languageLabel": "Old Persian",
+        "languageDescription": "language of Achaemenid Empire and ancestor of Middle Persian",
+        "code": "peo"
+    },
+    {
+        "languageQID": "Q23014",
+        "languageLabel": "Palatinate German",
+        "languageDescription": "West Franconian dialect of German",
+        "code": "pfl"
+    },
+    {
+        "languageQID": "Q18204898",
+        "languageLabel": "Proto-Philippine",
+        "languageDescription": "Reconstructed ancestor of the Philippine languages",
+        "code": "phi-pro"
+    },
+    {
+        "languageQID": "Q36727",
+        "languageLabel": "Pali",
+        "languageDescription": "Indo-Aryan language native to the Indian subcontinent",
+        "code": "pi"
+    },
+    {
+        "languageQID": "Q36554",
+        "languageLabel": "Pitkern",
+        "languageDescription": "dialect spoken on Pitcairn Islands",
+        "code": "pih"
+    },
+    {
+        "languageQID": "Q36699",
+        "languageLabel": "Pijin",
+        "languageDescription": "language",
+        "code": "pis"
+    },
+    {
+        "languageQID": "Q2982063",
+        "languageLabel": "Pitjantjatjara",
+        "languageDescription": "Western Desert dialect of Central Australia",
+        "code": "pjt"
+    },
+    {
+        "languageQID": "Q36323",
+        "languageLabel": "Pökoot",
+        "languageDescription": "language spoken in western Kenya and eastern Uganda by the Pokot people.",
+        "code": "pko"
+    },
+    {
+        "languageQID": "Q22964057",
+        "languageLabel": "Pakistan Sign Language",
+        "languageDescription": "sign language",
+        "code": "pks"
+    },
+    {
+        "languageQID": "Q809",
+        "languageLabel": "Polish",
+        "languageDescription": "West Slavic language",
+        "code": "pl"
+    },
+    {
+        "languageQID": "Q15085",
+        "languageLabel": "Piedmontese",
+        "languageDescription": "Romance language spoken mainly in Italy",
+        "code": "pms"
+    },
+    {
+        "languageQID": "Q12473446",
+        "languageLabel": "Papuan Malay",
+        "languageDescription": "vernacular Malay used in Indonesian New Guinea",
+        "code": "pmy"
+    },
+    {
+        "languageQID": "Q133800",
+        "languageLabel": "Shahmukhi",
+        "languageDescription": "writing system for Punjabi using a Perso-Arabic based script",
+        "code": "pnb"
+    },
+    {
+        "languageQID": "Q36748",
+        "languageLabel": "Pontic Greek",
+        "languageDescription": "Greek dialect",
+        "code": "pnt"
+    },
+    {
+        "languageQID": "Q36741",
+        "languageLabel": "Polabian",
+        "languageDescription": "extinct West Slavic language",
+        "code": "pox"
+    },
+    {
+        "languageQID": "Q98057728",
+        "languageLabel": "Proto-Malayic",
+        "languageDescription": "reconstructed proto-language of Malayic languages",
+        "code": "poz-mly-pro"
+    },
+    {
+        "languageQID": "Q141741",
+        "languageLabel": "Proto-Oceanic",
+        "languageDescription": "reconstructed ancestor of the Oceanic languages",
+        "code": "poz-oce-pro"
+    },
+    {
+        "languageQID": "Q1658709",
+        "languageLabel": "Proto-Polynesian",
+        "languageDescription": "hypothetical proto-language from which modern Polynesian languages descend, a daughter language of the Proto-Austronesian",
+        "code": "poz-pol-pro"
+    },
+    {
+        "languageQID": "Q3832960",
+        "languageLabel": "Proto-Malayo-Polynesian",
+        "languageDescription": "reconstructed language",
+        "code": "poz-pro"
+    },
+    {
+        "languageQID": "Q1186896",
+        "languageLabel": "Pipil",
+        "languageDescription": "language of Central America",
+        "code": "ppl"
+    },
+    {
+        "languageQID": "Q2094884",
+        "languageLabel": "Papora-Hoanya",
+        "languageDescription": "language",
+        "code": "ppu"
+    },
+    {
+        "languageQID": "Q35501",
+        "languageLabel": "Old Prussian",
+        "languageDescription": "extinct Western Baltic language",
+        "code": "prg"
+    },
+    {
+        "languageQID": "Q58680",
+        "languageLabel": "Pashto",
+        "languageDescription": "Indo-Aryan language of Afghanistan and Pakistan",
+        "code": "ps"
+    },
+    {
+        "languageQID": "Q5146",
+        "languageLabel": "Portuguese",
+        "languageDescription": "Western Romance language of the Indo-European language family",
+        "code": "pt"
+    },
+    {
+        "languageQID": "Q750553",
+        "languageLabel": "Brazilian Portuguese",
+        "languageDescription": "set of varieties of the Portuguese language spoken in Brazil",
+        "code": "pt-br"
+    },
+    {
+        "languageQID": "Q715755",
+        "languageLabel": "Paiwan",
+        "languageDescription": "Austronesian language spoken in Taiwan",
+        "code": "pwn"
+    },
+    {
+        "languageQID": "Q716690",
+        "languageLabel": "Puyuma",
+        "languageDescription": "Austronesian language spoken in Taiwan",
+        "code": "pyu"
+    },
+    {
+        "languageQID": "Q5218",
+        "languageLabel": "Quechua",
+        "languageDescription": "language family spoken primarily in the Andes region of South America",
+        "code": "qu"
+    },
+    {
+        "languageQID": "Q36806",
+        "languageLabel": "Southern Quechua",
+        "languageDescription": "language family",
+        "code": "qu"
+    },
+    {
+        "languageQID": "Q36494",
+        "languageLabel": "K’iche’",
+        "languageDescription": "Mayan language spoken by the K'iche' people",
+        "code": "quc"
+    },
+    {
+        "languageQID": "Q1740805",
+        "languageLabel": "Northern Quichua",
+        "languageDescription": "Quechuan language of Ecuador and Colombia",
+        "code": "qug"
+    },
+    {
+        "languageQID": "Q5575757",
+        "languageLabel": "Proto-Quechua",
+        "languageDescription": "proto-language of the Quechuan language family",
+        "code": "qwe-pro"
+    },
+    {
+        "languageQID": "Q7260479",
+        "languageLabel": "Puno Quechua",
+        "languageDescription": "language of the Puno Quechua region",
+        "code": "qxp"
+    },
+    {
+        "languageQID": "Q56383",
+        "languageLabel": "Quenya",
+        "languageDescription": "fictional language from J.R.R. Tolkien's legendarium",
+        "code": "qya"
+    },
+    {
+        "languageQID": "Q36745",
+        "languageLabel": "Cook Islands Maori",
+        "languageDescription": "Eastern Polynesian language of the Cook Islands",
+        "code": "rar"
+    },
+    {
+        "languageQID": "Q13198",
+        "languageLabel": "Réunion Creole",
+        "languageDescription": "creole language spoken on Réunion",
+        "code": "rcf"
+    },
+    {
+        "languageQID": "Q1641543",
+        "languageLabel": "Romagnol",
+        "languageDescription": "Romance language belonging to the Gallo-Italic family, spoken in the Emilia-Romagna region and in San Marino Republic",
+        "code": "rgn"
+    },
+    {
+        "languageQID": "Q34174",
+        "languageLabel": "Tarifit",
+        "languageDescription": "Zenati Berber language of northern Morocco",
+        "code": "rif"
+    },
+    {
+        "languageQID": "Q3450749",
+        "languageLabel": "Rakhine",
+        "languageDescription": "Sino-Tibetan language spoken in Bangladesh, India and Myanmar",
+        "code": "rki"
+    },
+    {
+        "languageQID": "Q3241618",
+        "languageLabel": "Rangpuri",
+        "languageDescription": "Indo-Aryan language spoken in India, Bangladesh, and Nepal",
+        "code": "rkt"
+    },
+    {
+        "languageQID": "Q13199",
+        "languageLabel": "Romansh",
+        "languageDescription": "Romance language spoken in the Swiss canton of Grisons (Graubünden)",
+        "code": "rm"
+    },
+    {
+        "languageQID": "Q688309",
+        "languageLabel": "Putèr",
+        "languageDescription": "variant of Romansh",
+        "code": "rm-puter"
+    },
+    {
+        "languageQID": "Q688873",
+        "languageLabel": "Rumantsch Grischun",
+        "languageDescription": "variant of the Romansh language",
+        "code": "rm-rumgr"
+    },
+    {
+        "languageQID": "Q690216",
+        "languageLabel": "Surmiran",
+        "languageDescription": "variant of Romansh",
+        "code": "rm-surmiran"
+    },
+    {
+        "languageQID": "Q688348",
+        "languageLabel": "Sursilvan",
+        "languageDescription": "variant of Romansh",
+        "code": "rm-sursilv"
+    },
+    {
+        "languageQID": "Q688272",
+        "languageLabel": "Sutsilvan",
+        "languageDescription": "variant of Romansh",
+        "code": "rm-sutsilv"
+    },
+    {
+        "languageQID": "Q690226",
+        "languageLabel": "Vallader",
+        "languageDescription": "variant of Romansh",
+        "code": "rm-vallader"
+    },
+    {
+        "languageQID": "Q5045611",
+        "languageLabel": "Carpathian Romani",
+        "languageDescription": "group of dialects of the Romani language",
+        "code": "rmc"
+    },
+    {
+        "languageQID": "Q2093214",
+        "languageLabel": "Finnish Kalo",
+        "languageDescription": "language",
+        "code": "rmf"
+    },
+    {
+        "languageQID": "Q13201",
+        "languageLabel": "Romani",
+        "languageDescription": "language of the Romani people belonging to the Indo-Aryan branch of the Indo-European language family",
+        "code": "rmy"
+    },
+    {
+        "languageQID": "Q33583",
+        "languageLabel": "Kirundi",
+        "languageDescription": "Bantu language",
+        "code": "rn"
+    },
+    {
+        "languageQID": "Q7913",
+        "languageLabel": "Romanian",
+        "languageDescription": "Eastern Romance language, official in Romania and Moldova",
+        "code": "ro"
+    },
+    {
+        "languageQID": "Q695526",
+        "languageLabel": "Tarantino",
+        "languageDescription": "Italian dialect",
+        "code": "roa-tara"
+    },
+    {
+        "languageQID": "Q7737",
+        "languageLabel": "Russian",
+        "languageDescription": "East Slavic language",
+        "code": "ru"
+    },
+    {
+        "languageQID": "Q1194341",
+        "languageLabel": "Siberian",
+        "languageDescription": "constructed language",
+        "code": "ru-sib"
+    },
+    {
+        "languageQID": "Q26245",
+        "languageLabel": "Rusyn",
+        "languageDescription": "East Slavic language spoken by Carpathian Rusyns, Lemkos, Boykos, and Hutsuls",
+        "code": "rue"
+    },
+    {
+        "languageQID": "Q29316",
+        "languageLabel": "Aromanian",
+        "languageDescription": "Eastern Romance language of the Southern Balkans",
+        "code": "rup"
+    },
+    {
+        "languageQID": "Q13358",
+        "languageLabel": "Megleno-Romanian",
+        "languageDescription": "Eastern Romance language of the Balkans",
+        "code": "ruq"
+    },
+    {
+        "languageQID": "Q64362998",
+        "languageLabel": "Megleno-Romanian in Cyrillic script",
+        "languageDescription": "language expressed in a particular alphabet",
+        "code": "ruq-cyrl"
+    },
+    {
+        "languageQID": "Q64362999",
+        "languageLabel": "Megleno-Romanian in Latin script",
+        "languageDescription": "language expressed in a particular alphabet",
+        "code": "ruq-latn"
+    },
+    {
+        "languageQID": "Q33573",
+        "languageLabel": "Kinyarwanda",
+        "languageDescription": "Bantu language spoken in Central Africa, official in Rwanda",
+        "code": "rw"
+    },
+    {
+        "languageQID": "Q65455884",
+        "languageLabel": "Marwari",
+        "languageDescription": "Indo-Aryan language spoken essentially in Northwestern India, also in Nepal",
+        "code": "rwr"
+    },
+    {
+        "languageQID": "Q34233",
+        "languageLabel": "Okinawan",
+        "languageDescription": "Northern Ryukyuan language",
+        "code": "ryu"
+    },
+    {
+        "languageQID": "Q11059",
+        "languageLabel": "Sanskrit",
+        "languageDescription": "ancient Indo-Aryan language of South Asia",
+        "code": "sa"
+    },
+    {
+        "languageQID": "Q34299",
+        "languageLabel": "Yakut",
+        "languageDescription": "Turkic language belonging to Siberian Turkic branch",
+        "code": "sah"
+    },
+    {
+        "languageQID": "Q16890038",
+        "languageLabel": "Paratio",
+        "languageDescription": "language",
+        "code": "sai-par"
+    },
+    {
+        "languageQID": "Q33965",
+        "languageLabel": "Santali",
+        "languageDescription": "Kherwari language of the Austro-Asiatic family spoken by around 6.2 million people in India, Bangladesh, Bhutan and Nepal",
+        "code": "sat"
+    },
+    {
+        "languageQID": "Q33976",
+        "languageLabel": "Sardinian",
+        "languageDescription": "Romance language indigenous to the island of Sardinia",
+        "code": "sc"
+    },
+    {
+        "languageQID": "Q33973",
+        "languageLabel": "Sicilian",
+        "languageDescription": "Italo-Dalmatian language spoken in Southern Italy",
+        "code": "scn"
+    },
+    {
+        "languageQID": "Q14549",
+        "languageLabel": "Scots",
+        "languageDescription": "West Germanic language",
+        "code": "sco"
+    },
+    {
+        "languageQID": "Q33997",
+        "languageLabel": "Sindhi",
+        "languageDescription": "Indo-Aryan language spoken in Pakistan and India",
+        "code": "sd"
+    },
+    {
+        "languageQID": "Q845441",
+        "languageLabel": "Sassarese",
+        "languageDescription": "Romance (transitional) language variety, closely related to Sardinian and especially Corsican",
+        "code": "sdc"
+    },
+    {
+        "languageQID": "Q1496597",
+        "languageLabel": "Southern Kurdish",
+        "languageDescription": "variety of Kurdish comprising several dialects of Northwestern Iranian languages spoken in the south of Kurdistan (in upper Mesopotamia, to the west of Iran and east of Iraq)",
+        "code": "sdh"
+    },
+    {
+        "languageQID": "Q33947",
+        "languageLabel": "Northern Sami",
+        "languageDescription": "most widely spoken of all Sámi languages",
+        "code": "se"
+    },
+    {
+        "languageQID": "Q36583",
+        "languageLabel": "Seri",
+        "languageDescription": "indigenous Mexican language",
+        "code": "sei"
+    },
+    {
+        "languageQID": "Q1658554",
+        "languageLabel": "Proto-Semitic",
+        "languageDescription": "hypothetical proto-language ancestral to the historical Semitic languages of the Middle East",
+        "code": "sem-pro"
+    },
+    {
+        "languageQID": "Q35025",
+        "languageLabel": "Old South Arabian",
+        "languageDescription": "language family",
+        "code": "sem-x-oldsoara"
+    },
+    {
+        "languageQID": "Q1510113",
+        "languageLabel": "Palmyrene Aramaic",
+        "languageDescription": "Western Aramaic dialect spoken in the city of Palmyra in the early centuries AD",
+        "code": "sem-x-palmyren"
+    },
+    {
+        "languageQID": "Q24912301",
+        "languageLabel": "Taymanitic",
+        "languageDescription": "Extinct Central Semitic language of northwest Arabia",
+        "code": "sem-x-taymanit"
+    },
+    {
+        "languageQID": "Q35655",
+        "languageLabel": "Koyraboro Senni",
+        "languageDescription": "language",
+        "code": "ses"
+    },
+    {
+        "languageQID": "Q33954",
+        "languageLabel": "Sango",
+        "languageDescription": "Ngbandi-based creole of the Central African Republic",
+        "code": "sg"
+    },
+    {
+        "languageQID": "Q34053",
+        "languageLabel": "Shughni",
+        "languageDescription": "Eastern Iranian language",
+        "code": "sgh"
+    },
+    {
+        "languageQID": "Q33256",
+        "languageLabel": "Bartangi",
+        "languageDescription": "Pamir language natively spoken in Afghanistan and Tajikistan",
+        "code": "sgh-ba"
+    },
+    {
+        "languageQID": "Q2562249",
+        "languageLabel": "Khufi",
+        "languageDescription": "language",
+        "code": "sgh-kh"
+    },
+    {
+        "languageQID": "Q3356620",
+        "languageLabel": "Oroshori",
+        "languageDescription": "dialect of the Shughni language",
+        "code": "sgh-oro"
+    },
+    {
+        "languageQID": "Q3356620",
+        "languageLabel": "Oroshori",
+        "languageDescription": "dialect of the Shughni language",
+        "code": "sgh-ro"
+    },
+    {
+        "languageQID": "Q2597566",
+        "languageLabel": "Rushani",
+        "languageDescription": "Pamir language of Afghanistan and Tajikistan",
+        "code": "sgh-ru"
+    },
+    {
+        "languageQID": "Q9301",
+        "languageLabel": "Serbo-Croatian",
+        "languageDescription": "South Slavic language",
+        "code": "sh"
+    },
+    {
+        "languageQID": "Q34152",
+        "languageLabel": "Tashelhit",
+        "languageDescription": "Berber language of southwestern Morocco",
+        "code": "shi"
+    },
+    {
+        "languageQID": "Q135972638",
+        "languageLabel": "Tachelhit in Arabic script",
+        "languageDescription": "language expressed in a particular script",
+        "code": "shi-arab"
+    },
+    {
+        "languageQID": "Q64363000",
+        "languageLabel": "Tachelhit in Latin script",
+        "languageDescription": "language expressed in a particular alphabet",
+        "code": "shi-latn"
+    },
+    {
+        "languageQID": "Q64363001",
+        "languageLabel": "Tachelhit in Tifinagh script",
+        "languageDescription": "language expressed in a particular alphabet",
+        "code": "shi-tfng"
+    },
+    {
+        "languageQID": "Q56482",
+        "languageLabel": "Shan",
+        "languageDescription": "Kra-Dai language mainly spoken in Shan State, Myanmar",
+        "code": "shn"
+    },
+    {
+        "languageQID": "Q33274",
+        "languageLabel": "Shawiya",
+        "languageDescription": "Zenati variety of the Tamazight language spoken by the Shawi Berbers of the Awras region of eastern Algeria",
+        "code": "shy"
+    },
+    {
+        "languageQID": "Q64363002",
+        "languageLabel": "Shawiya in Latin script",
+        "languageDescription": "language expressed in a particular alphabet",
+        "code": "shy-latn"
+    },
+    {
+        "languageQID": "Q13267",
+        "languageLabel": "Sinhala",
+        "languageDescription": "Indo-Aryan language native to Sri Lanka",
+        "code": "si"
+    },
+    {
+        "languageQID": "Q33786",
+        "languageLabel": "Sidamo",
+        "languageDescription": "language",
+        "code": "sid"
+    },
+    {
+        "languageQID": "Q21480034",
+        "languageLabel": "Simple English",
+        "languageDescription": "language with Wikimedia language code \"simple\"",
+        "code": "simple"
+    },
+    {
+        "languageQID": "Q24839178",
+        "languageLabel": "Proto-Sino-Tibetan",
+        "languageDescription": "reconstructed ancestor of the Sino-Tibetan languages",
+        "code": "sit-pro"
+    },
+    {
+        "languageQID": "Q117469295",
+        "languageLabel": "Proto-Tamang",
+        "languageDescription": "reconstructed ancestor to the Tamangic languages",
+        "code": "sit-tam-pro"
+    },
+    {
+        "languageQID": "Q33656",
+        "languageLabel": "Kildin Sami",
+        "languageDescription": "Uralic language spoken in northwestern Russia",
+        "code": "sjd"
+    },
+    {
+        "languageQID": "Q56314",
+        "languageLabel": "Pite Sami",
+        "languageDescription": "Saami language",
+        "code": "sje"
+    },
+    {
+        "languageQID": "Q3287253",
+        "languageLabel": "Mapun",
+        "languageDescription": "language",
+        "code": "sjm"
+    },
+    {
+        "languageQID": "Q56437",
+        "languageLabel": "Sindarin",
+        "languageDescription": "fictional language from J.R.R. Tolkien's legendarium",
+        "code": "sjn"
+    },
+    {
+        "languageQID": "Q36656",
+        "languageLabel": "Ter Sami",
+        "languageDescription": "nearly extinct Uralic language",
+        "code": "sjt"
+    },
+    {
+        "languageQID": "Q56415",
+        "languageLabel": "Ume Sami",
+        "languageDescription": "Sami language",
+        "code": "sju"
+    },
+    {
+        "languageQID": "Q9058",
+        "languageLabel": "Slovak",
+        "languageDescription": "West Slavic language spoken in Slovakia",
+        "code": "sk"
+    },
+    {
+        "languageQID": "Q113406611",
+        "languageLabel": "Saraiki Shahmukhi",
+        "languageDescription": "Perso-Arabic script based orthography for Saraiki, extended from the Shahmukhi orthography for Punjabi",
+        "code": "skr"
+    },
+    {
+        "languageQID": "Q33902",
+        "languageLabel": "Saraiki",
+        "languageDescription": "Indo-Aryan language spoken in Pakistan",
+        "code": "skr"
+    },
+    {
+        "languageQID": "Q9063",
+        "languageLabel": "Slovene",
+        "languageDescription": "South Slavic language spoken primarily in Slovenia",
+        "code": "sl"
+    },
+    {
+        "languageQID": "Q747537",
+        "languageLabel": "Proto-Slavic",
+        "languageDescription": "proto-language of all the Slavic languages",
+        "code": "sla-pro"
+    },
+    {
+        "languageQID": "Q152965",
+        "languageLabel": "Silesian German",
+        "languageDescription": "German dialect spoken in Silesia",
+        "code": "sli"
+    },
+    {
+        "languageQID": "Q34011",
+        "languageLabel": "Samoan",
+        "languageDescription": "language of the Samoan Islands",
+        "code": "sm"
+    },
+    {
+        "languageQID": "Q13293",
+        "languageLabel": "Southern Sami",
+        "languageDescription": "endangered Uralic language of Scandinavia",
+        "code": "sma"
+    },
+    {
+        "languageQID": "Q7251862",
+        "languageLabel": "Proto-Sámi",
+        "languageDescription": "reconstructed proto-language",
+        "code": "smi-pro"
+    },
+    {
+        "languageQID": "Q56322",
+        "languageLabel": "Lule Sami",
+        "languageDescription": "endangered Uralic language of Scandinavia",
+        "code": "smj"
+    },
+    {
+        "languageQID": "Q33462",
+        "languageLabel": "Inari Sami",
+        "languageDescription": "Sami language spoken by the Inari Sami of Finland",
+        "code": "smn"
+    },
+    {
+        "languageQID": "Q13271",
+        "languageLabel": "Skolt Sami",
+        "languageDescription": "Sámi language spoken in Finland, Russia, Norway",
+        "code": "sms"
+    },
+    {
+        "languageQID": "Q34004",
+        "languageLabel": "Shona",
+        "languageDescription": "Bantu language of Zimbabwe and Mozambique",
+        "code": "sn"
+    },
+    {
+        "languageQID": "Q13275",
+        "languageLabel": "Somali",
+        "languageDescription": "Afroasiatic language belonging to the Cushitic branch",
+        "code": "so"
+    },
+    {
+        "languageQID": "Q56508",
+        "languageLabel": "Southern Thai",
+        "languageDescription": "language",
+        "code": "sou"
+    },
+    {
+        "languageQID": "Q8748",
+        "languageLabel": "Albanian",
+        "languageDescription": "Indo-European language, spoken in Albania, Kosovo, North Macedonia and Montenegro as well as Italy, Croatia, Romania and Serbia",
+        "code": "sq"
+    },
+    {
+        "languageQID": "Q18210846",
+        "languageLabel": "Proto-Albanian",
+        "languageDescription": "reconstructed ancestor of the Albanian languages",
+        "code": "sqj-pro"
+    },
+    {
+        "languageQID": "Q9299",
+        "languageLabel": "Serbian",
+        "languageDescription": "standardized variety of Serbo-Croatian language used by Serbs",
+        "code": "sr"
+    },
+    {
+        "languageQID": "Q21161942",
+        "languageLabel": "Serbian in Cyrilic script",
+        "languageDescription": "written Serbian language form",
+        "code": "sr-ec"
+    },
+    {
+        "languageQID": "Q21161949",
+        "languageLabel": "Serbian in Latin script",
+        "languageDescription": "written Serbian language form",
+        "code": "sr-el"
+    },
+    {
+        "languageQID": "Q33873",
+        "languageLabel": "Sarikoli",
+        "languageDescription": "language",
+        "code": "srh"
+    },
+    {
+        "languageQID": "Q33989",
+        "languageLabel": "Sranan Tongo",
+        "languageDescription": "creole language spoken in Suriname",
+        "code": "srn"
+    },
+    {
+        "languageQID": "Q3027953",
+        "languageLabel": "Sirionó",
+        "languageDescription": "language",
+        "code": "srq"
+    },
+    {
+        "languageQID": "Q34014",
+        "languageLabel": "Swazi",
+        "languageDescription": "language of the Swazi people",
+        "code": "ss"
+    },
+    {
+        "languageQID": "Q676492",
+        "languageLabel": "Thao",
+        "languageDescription": "language",
+        "code": "ssf"
+    },
+    {
+        "languageQID": "Q34340",
+        "languageLabel": "Sesotho",
+        "languageDescription": "Southern Bantu language",
+        "code": "st"
+    },
+    {
+        "languageQID": "Q36705",
+        "languageLabel": "Shelta",
+        "languageDescription": "cant language",
+        "code": "sth"
+    },
+    {
+        "languageQID": "Q27154",
+        "languageLabel": "Saterland Frisian",
+        "languageDescription": "last living dialect of the East Frisian language",
+        "code": "stq"
+    },
+    {
+        "languageQID": "Q4418344",
+        "languageLabel": "Siberian Tatar",
+        "languageDescription": "Turkic language spoken in Western Siberia",
+        "code": "sty"
+    },
+    {
+        "languageQID": "Q34002",
+        "languageLabel": "Sundanese",
+        "languageDescription": "language spoken in Indonesia",
+        "code": "su"
+    },
+    {
+        "languageQID": "Q9027",
+        "languageLabel": "Swedish",
+        "languageDescription": "North Germanic language spoken in Sweden and Finland",
+        "code": "sv"
+    },
+    {
+        "languageQID": "Q7838",
+        "languageLabel": "Swahili",
+        "languageDescription": "Bantu language spoken mainly in East Africa",
+        "code": "sw"
+    },
+    {
+        "languageQID": "Q716599",
+        "languageLabel": "Saaroa",
+        "languageDescription": "language",
+        "code": "sxr"
+    },
+    {
+        "languageQID": "Q33538",
+        "languageLabel": "Syriac",
+        "languageDescription": "dialect of Middle Aramaic",
+        "code": "syc"
+    },
+    {
+        "languageQID": "Q2044560",
+        "languageLabel": "Sylheti",
+        "languageDescription": "Indo-Aryan language",
+        "code": "syl"
+    },
+    {
+        "languageQID": "Q107549714",
+        "languageLabel": "Sylheti in Bengali-Assamese script",
+        "languageDescription": "language in a particular script",
+        "code": "syl-beng"
+    },
+    {
+        "languageQID": "Q123848480",
+        "languageLabel": "Sylheti in Devanagari script",
+        "languageDescription": "language in a particular script",
+        "code": "syl-deva"
+    },
+    {
+        "languageQID": "Q120142383",
+        "languageLabel": "Sylheti in Latin script",
+        "languageDescription": "language in a particular script",
+        "code": "syl-latn"
+    },
+    {
+        "languageQID": "Q30319",
+        "languageLabel": "Silesian",
+        "languageDescription": "West Slavic ethnolect",
+        "code": "szl"
+    },
+    {
+        "languageQID": "Q718269",
+        "languageLabel": "Sakizaya",
+        "languageDescription": "Eastern Taiwan language",
+        "code": "szy"
+    },
+    {
+        "languageQID": "Q5885",
+        "languageLabel": "Tamil",
+        "languageDescription": "Dravidian language native to South India and Sri Lanka",
+        "code": "ta"
+    },
+    {
+        "languageQID": "Q6583709",
+        "languageLabel": "Proto-Tai",
+        "languageDescription": "reconstructed ancestor of the Tai languages",
+        "code": "tai-pro"
+    },
+    {
+        "languageQID": "Q715760",
+        "languageLabel": "Yami",
+        "languageDescription": "language",
+        "code": "tao"
+    },
+    {
+        "languageQID": "Q715766",
+        "languageLabel": "Atayal",
+        "languageDescription": "Austronesian language spoken in Taiwan",
+        "code": "tay"
+    },
+    {
+        "languageQID": "Q7251864",
+        "languageLabel": "Proto-Tibeto-Burman",
+        "languageDescription": "reconstructed ancestor of the Tibeto-Burman languages",
+        "code": "tbq-pro"
+    },
+    {
+        "languageQID": "Q31091048",
+        "languageLabel": "Southern Tutchone",
+        "languageDescription": "language",
+        "code": "tce"
+    },
+    {
+        "languageQID": "Q34251",
+        "languageLabel": "Tulu",
+        "languageDescription": "Indian Dravidian language of Tulu Nadu region",
+        "code": "tcy"
+    },
+    {
+        "languageQID": "Q8097",
+        "languageLabel": "Telugu",
+        "languageDescription": "Dravidian language native to South India",
+        "code": "te"
+    },
+    {
+        "languageQID": "Q2802914",
+        "languageLabel": "East Teke",
+        "languageDescription": "language",
+        "code": "tek"
+    },
+    {
+        "languageQID": "Q34125",
+        "languageLabel": "Tetum",
+        "languageDescription": "Timoric language spoken on the island of Timor",
+        "code": "tet"
+    },
+    {
+        "languageQID": "Q9260",
+        "languageLabel": "Tajik",
+        "languageDescription": "language spoken in Tajikistan",
+        "code": "tg"
+    },
+    {
+        "languageQID": "Q64363004",
+        "languageLabel": "Tajik in Cyrillic script",
+        "languageDescription": "language expressed in a particular alphabet",
+        "code": "tg-cyrl"
+    },
+    {
+        "languageQID": "Q64363005",
+        "languageLabel": "Tajik in Latin script",
+        "languageDescription": "language expressed in a particular alphabet",
+        "code": "tg-latn"
+    },
+    {
+        "languageQID": "Q9217",
+        "languageLabel": "Thai",
+        "languageDescription": "Tai language",
+        "code": "th"
+    },
+    {
+        "languageQID": "Q34124",
+        "languageLabel": "Tigrinya",
+        "languageDescription": "Semitic language spoken in Ethiopia and Eritrea",
+        "code": "ti"
+    },
+    {
+        "languageQID": "Q12953229",
+        "languageLabel": "Northern Tujia",
+        "languageDescription": "language",
+        "code": "tji"
+    },
+    {
+        "languageQID": "Q9267",
+        "languageLabel": "Turkmen",
+        "languageDescription": "Oghuz Turkic language of Central Asia",
+        "code": "tk"
+    },
+    {
+        "languageQID": "Q34057",
+        "languageLabel": "Tagalog",
+        "languageDescription": "Austronesian language; native language of the Tagalog ethnic group",
+        "code": "tl"
+    },
+    {
+        "languageQID": "Q10134",
+        "languageLabel": "Klingon",
+        "languageDescription": "constructed language created for Star Trek",
+        "code": "tlh"
+    },
+    {
+        "languageQID": "Q27792",
+        "languageLabel": "Tlingit",
+        "languageDescription": "language of southeast Alaska and western Canada",
+        "code": "tli"
+    },
+    {
+        "languageQID": "Q34318",
+        "languageLabel": "Talysh",
+        "languageDescription": "Iranic language spoken in Northwestern Iran and Southeastern Azerbaijan",
+        "code": "tly"
+    },
+    {
+        "languageQID": "Q34137",
+        "languageLabel": "Tswana",
+        "languageDescription": "Bantu language of and South Africa",
+        "code": "tn"
+    },
+    {
+        "languageQID": "Q34094",
+        "languageLabel": "Tongan",
+        "languageDescription": "Polynesian language",
+        "code": "to"
+    },
+    {
+        "languageQID": "Q36846",
+        "languageLabel": "Toki Pona",
+        "languageDescription": "minimalist language created by Sonja Lang",
+        "code": "tok"
+    },
+    {
+        "languageQID": "Q34159",
+        "languageLabel": "Tok Pisin",
+        "languageDescription": "English creole spoken in Papua New Guinea",
+        "code": "tpi"
+    },
+    {
+        "languageQID": "Q256",
+        "languageLabel": "Turkish",
+        "languageDescription": "Oghuz Turkic language of the Turkish people",
+        "code": "tr"
+    },
+    {
+        "languageQID": "Q3657773",
+        "languageLabel": "Proto-Turkic",
+        "languageDescription": "reconstructed ancestor of Turkic languages",
+        "code": "trk-pro"
+    },
+    {
+        "languageQID": "Q34040",
+        "languageLabel": "Turoyo",
+        "languageDescription": "language from the Central Neo-Aramaic language family",
+        "code": "tru"
+    },
+    {
+        "languageQID": "Q716686",
+        "languageLabel": "Seediq",
+        "languageDescription": "language",
+        "code": "trv"
+    },
+    {
+        "languageQID": "Q34327",
+        "languageLabel": "Tsonga",
+        "languageDescription": "Bantu language of the Tsonga people of southern Africa",
+        "code": "ts"
+    },
+    {
+        "languageQID": "Q34142",
+        "languageLabel": "Tausug",
+        "languageDescription": "Visayan language spoken in the Philippines and Malaysia",
+        "code": "tsg"
+    },
+    {
+        "languageQID": "Q11159532",
+        "languageLabel": "Tseku",
+        "languageDescription": "language",
+        "code": "tsk"
+    },
+    {
+        "languageQID": "Q716681",
+        "languageLabel": "Tsou",
+        "languageDescription": "Austronesian language",
+        "code": "tsu"
+    },
+    {
+        "languageQID": "Q25285",
+        "languageLabel": "Tatar",
+        "languageDescription": "Turkic language spoken by Tatars",
+        "code": "tt"
+    },
+    {
+        "languageQID": "Q20822",
+        "languageLabel": "Northern Tutchone",
+        "languageDescription": "language",
+        "code": "ttm"
+    },
+    {
+        "languageQID": "Q56240",
+        "languageLabel": "Tunisian Arabic",
+        "languageDescription": "arabic dialect spoken in Tunisia",
+        "code": "tu"
+    },
+    {
+        "languageQID": "Q34138",
+        "languageLabel": "Tumbuka",
+        "languageDescription": "Bantu language spoken in Southern and Eastern Africa",
+        "code": "tum"
+    },
+    {
+        "languageQID": "Q3541834",
+        "languageLabel": "Tucano",
+        "languageDescription": "language",
+        "code": "tuo"
+    },
+    {
+        "languageQID": "Q56944",
+        "languageLabel": "Tupi",
+        "languageDescription": "extinct Tupian language of Brazil",
+        "code": "tup"
+    },
+    {
+        "languageQID": "Q34055",
+        "languageLabel": "Tuvaluan",
+        "languageDescription": "Polynesian language spoken in Tuvalu",
+        "code": "tvl"
+    },
+    {
+        "languageQID": "Q7689158",
+        "languageLabel": "Tavoyan",
+        "languageDescription": "language",
+        "code": "tvn"
+    },
+    {
+        "languageQID": "Q1975271",
+        "languageLabel": "Taivoan",
+        "languageDescription": "Formosan language",
+        "code": "tvx"
+    },
+    {
+        "languageQID": "Q36850",
+        "languageLabel": "Twi",
+        "languageDescription": "dialect of the Akan language in Ghana",
+        "code": "tw"
+    },
+    {
+        "languageQID": "Q34128",
+        "languageLabel": "Tahitian",
+        "languageDescription": "language of French Polynesia without official language status",
+        "code": "ty"
+    },
+    {
+        "languageQID": "Q34119",
+        "languageLabel": "Tuvan",
+        "languageDescription": "Siberian Turkic language",
+        "code": "tyv"
+    },
+    {
+        "languageQID": "Q1063911",
+        "languageLabel": "Talossan",
+        "languageDescription": "constructed language created by Robert Ben Madison in 1980",
+        "code": "tzl"
+    },
+    {
+        "languageQID": "Q49741",
+        "languageLabel": "Central Atlas Tamazight",
+        "languageDescription": "Berber language of the Afro-Asiatic language family",
+        "code": "tzm"
+    },
+    {
+        "languageQID": "Q13238",
+        "languageLabel": "Udmurt",
+        "languageDescription": "Uralic language",
+        "code": "udm"
+    },
+    {
+        "languageQID": "Q13263",
+        "languageLabel": "Uyghur",
+        "languageDescription": "Turkic language spoken by the Uyghur people",
+        "code": "ug"
+    },
+    {
+        "languageQID": "Q8798",
+        "languageLabel": "Ukrainian",
+        "languageDescription": "East Slavic language",
+        "code": "uk"
+    },
+    {
+        "languageQID": "Q56547",
+        "languageLabel": "Munsee",
+        "languageDescription": "Algonquian language",
+        "code": "umu"
+    },
+    {
+        "languageQID": "Q22282914",
+        "languageLabel": "undetermined language",
+        "languageDescription": "special value in other databases which means that the language has not yet been identified",
+        "code": "und"
+    },
+    {
+        "languageQID": "Q1617",
+        "languageLabel": "Urdu",
+        "languageDescription": "Indo-Aryan language spoken in South Asia",
+        "code": "ur"
+    },
+    {
+        "languageQID": "Q36663",
+        "languageLabel": "Urhobo",
+        "languageDescription": "Edoid language of the Urhobo people mainly spoken in Delta State in Nigeria",
+        "code": "urh"
+    },
+    {
+        "languageQID": "Q11883720",
+        "languageLabel": "Proto-Finnic",
+        "languageDescription": "reconstructed protolanguage of the Baltic-Finnic languages",
+        "code": "urj-fin-pro"
+    },
+    {
+        "languageQID": "Q2499870",
+        "languageLabel": "Proto-Finno-Ugric",
+        "languageDescription": "reconstructed proto-language",
+        "code": "urj-fpr-pro"
+    },
+    {
+        "languageQID": "Q288765",
+        "languageLabel": "Proto-Uralic",
+        "languageDescription": "proto-language",
+        "code": "urj-pro"
+    },
+    {
+        "languageQID": "Q36435",
+        "languageLabel": "Pazeh-Kaxabu",
+        "languageDescription": "Northwest Formosan language of Taiwan",
+        "code": "uun"
+    },
+    {
+        "languageQID": "Q9264",
+        "languageLabel": "Uzbek",
+        "languageDescription": "Turkic language",
+        "code": "uz"
+    },
+    {
+        "languageQID": "Q64363006",
+        "languageLabel": "Uzbek in Cyrillic script",
+        "languageDescription": "language expressed in a particular alphabet",
+        "code": "uz-cyrl"
+    },
+    {
+        "languageQID": "Q64363007",
+        "languageLabel": "Uzbek in Latin script",
+        "languageDescription": "language expressed in a particular alphabet",
+        "code": "uz-latn"
+    },
+    {
+        "languageQID": "Q1066787",
+        "languageLabel": "Southern Uzbek",
+        "languageDescription": "Variant of the Uzbek language spoken in modern day Afghanistan",
+        "code": "uzs"
+    },
+    {
+        "languageQID": "Q32704",
+        "languageLabel": "Venda",
+        "languageDescription": "language of the Venda people",
+        "code": "ve"
+    },
+    {
+        "languageQID": "Q32724",
+        "languageLabel": "Venetian",
+        "languageDescription": "Romance language spoken in the Italian region of Veneto",
+        "code": "vec"
+    },
+    {
+        "languageQID": "Q32747",
+        "languageLabel": "Veps",
+        "languageDescription": "Finnic language native to Northwest Russia",
+        "code": "vep"
+    },
+    {
+        "languageQID": "Q9199",
+        "languageLabel": "Vietnamese",
+        "languageDescription": "Austroasiatic language originating in Vietnam",
+        "code": "vi"
+    },
+    {
+        "languageQID": "Q100103",
+        "languageLabel": "West Flemish",
+        "languageDescription": "Germanic language spoken in West Flanders, French Flanders and in the west of Zeelandic Flanders",
+        "code": "vls"
+    },
+    {
+        "languageQID": "Q497345",
+        "languageLabel": "Main-Franconian",
+        "languageDescription": "Upper German dialect family",
+        "code": "vmf"
+    },
+    {
+        "languageQID": "Q36986",
+        "languageLabel": "Volapük",
+        "languageDescription": "constructed international auxiliary language",
+        "code": "vo"
+    },
+    {
+        "languageQID": "Q32858",
+        "languageLabel": "Votic",
+        "languageDescription": "language spoken by the Votes of Ingria",
+        "code": "vot"
+    },
+    {
+        "languageQID": "Q34219",
+        "languageLabel": "Walloon",
+        "languageDescription": "Romance language indigenous to Belgium and France",
+        "code": "wa"
+    },
+    {
+        "languageQID": "Q36943",
+        "languageLabel": "Wolayttattuwa",
+        "languageDescription": "language",
+        "code": "wal"
+    },
+    {
+        "languageQID": "Q34279",
+        "languageLabel": "Waray",
+        "languageDescription": "Visayan language primarily spoken in the islands of Samar and Eastern Leyte",
+        "code": "war"
+    },
+    {
+        "languageQID": "Q34208",
+        "languageLabel": "Wakhi",
+        "languageDescription": "language",
+        "code": "wbl"
+    },
+    {
+        "languageQID": "Q25442",
+        "languageLabel": "Sorbian",
+        "languageDescription": "Lechitic language spoken by the Sorbs",
+        "code": "wen"
+    },
+    {
+        "languageQID": "Q36979",
+        "languageLabel": "Wallisian",
+        "languageDescription": "Polynesian language spoken in Wallis island",
+        "code": "wls"
+    },
+    {
+        "languageQID": "Q34257",
+        "languageLabel": "Wolof",
+        "languageDescription": "language of Senegal, the Gambia, and Mauritania",
+        "code": "wo"
+    },
+    {
+        "languageQID": "Q34290",
+        "languageLabel": "Wu Chinese",
+        "languageDescription": "Sinitic language",
+        "code": "wuu"
+    },
+    {
+        "languageQID": "Q3567223",
+        "languageLabel": "Wendat",
+        "languageDescription": "Iroquoian language spoken in Canada",
+        "code": "wya"
+    },
+    {
+        "languageQID": "Q56485",
+        "languageLabel": "Wymysorys",
+        "languageDescription": "West Germanic language spoken in Wilamowice, Poland",
+        "code": "wym"
+    },
+    {
+        "languageQID": "Q33634",
+        "languageLabel": "Kalmyk",
+        "languageDescription": "register of the Oirat language, natively spoken by the Kalmyk people of Kalmykia",
+        "code": "xal"
+    },
+    {
+        "languageQID": "Q2493677",
+        "languageLabel": "Proto-Mongolic",
+        "languageDescription": "reconstructed ancestor of the Mongolic languages",
+        "code": "xgn-pro"
+    },
+    {
+        "languageQID": "Q13218",
+        "languageLabel": "Xhosa",
+        "languageDescription": "Nguni language of southern South Africa",
+        "code": "xh"
+    },
+    {
+        "languageQID": "Q13359",
+        "languageLabel": "Mingrelian",
+        "languageDescription": "Kartvelian language, also named “Megrelian” or “Iverian” (“iveriuli ena” in Georgian), spoken in North-Western Georgia at the beginning of the 20th century",
+        "code": "xmf"
+    },
+    {
+        "languageQID": "Q172244",
+        "languageLabel": "Kanakanavu",
+        "languageDescription": "Austronesian language spoken in Taiwan",
+        "code": "xnb"
+    },
+    {
+        "languageQID": "Q535958",
+        "languageLabel": "Punic",
+        "languageDescription": "extinct dialect of the Phoenician language spoken in North Africa and the Western Mediterranean",
+        "code": "xpu"
+    },
+    {
+        "languageQID": "Q36734",
+        "languageLabel": "Phoenician",
+        "languageDescription": "ancient Semitic language of the Mediterranean",
+        "code": "xpu"
+    },
+    {
+        "languageQID": "Q716695",
+        "languageLabel": "Saisiyat",
+        "languageDescription": "language",
+        "code": "xsy"
+    },
+    {
+        "languageQID": "Q34186",
+        "languageLabel": "Yazgulyam",
+        "languageDescription": "member of the Pamir subgroup of the Iranian languages, spoken by native speakers along the Yazgulyam River, Gorno-Badakhshan, Tajikistan",
+        "code": "yah"
+    },
+    {
+        "languageQID": "Q34247",
+        "languageLabel": "Yaghnobi",
+        "languageDescription": "East Iranian language spoken in the upper valley of the Yaghnob River in the Zarafshan area of Tajikistan by the Tajik-Yaghnobi people",
+        "code": "yai"
+    },
+    {
+        "languageQID": "Q34029",
+        "languageLabel": "Yapese",
+        "languageDescription": "Oceanic language spoken in Micronesia",
+        "code": "yap"
+    },
+    {
+        "languageQID": "Q12953315",
+        "languageLabel": "Yangben",
+        "languageDescription": "language",
+        "code": "yav"
+    },
+    {
+        "languageQID": "Q34179",
+        "languageLabel": "Yidgha",
+        "languageDescription": "Pamir language spoken in the Upper Lutkuh Valley (Tehsil Lotkuh) of Chitral, Khyber Pakhtunkhwa west of Garam Chashma in Pakistan",
+        "code": "ydg"
+    },
+    {
+        "languageQID": "Q1365342",
+        "languageLabel": "Yenish",
+        "languageDescription": "language",
+        "code": "yec"
+    },
+    {
+        "languageQID": "Q8641",
+        "languageLabel": "Yiddish",
+        "languageDescription": "High German-derived language used by Ashkenazi Jews",
+        "code": "yi"
+    },
+    {
+        "languageQID": "Q34311",
+        "languageLabel": "Yoruba",
+        "languageDescription": "Niger-Congo language spoken in West Africa",
+        "code": "yo"
+    },
+    {
+        "languageQID": "Q34243",
+        "languageLabel": "Yonaguni",
+        "languageDescription": "language of Okinawa, Japan",
+        "code": "yoi"
+    },
+    {
+        "languageQID": "Q36452",
+        "languageLabel": "Nenets",
+        "languageDescription": "Samoyedic pair of languages",
+        "code": "yrk"
+    },
+    {
+        "languageQID": "Q34070",
+        "languageLabel": "Tupian",
+        "languageDescription": "language family of South America",
+        "code": "yrl"
+    },
+    {
+        "languageQID": "Q34333",
+        "languageLabel": "Nheengatu",
+        "languageDescription": "language of South America",
+        "code": "yrl"
+    },
+    {
+        "languageQID": "Q13354",
+        "languageLabel": "Yucatec Maya",
+        "languageDescription": "Mayan language spoken in the Yucatán Peninsula",
+        "code": "yua"
+    },
+    {
+        "languageQID": "Q9186",
+        "languageLabel": "Cantonese",
+        "languageDescription": "variety of Yue Chinese spoken in Guangzhou, Hong Kong, and Macau",
+        "code": "yue"
+    },
+    {
+        "languageQID": "Q7033959",
+        "languageLabel": "Yue Chinese",
+        "languageDescription": "primary branch of Chinese spoken in southern China",
+        "code": "yue"
+    },
+    {
+        "languageQID": "Q3573199",
+        "languageLabel": "Quechan",
+        "languageDescription": "Yuman language originating in southern California",
+        "code": "yum"
+    },
+    {
+        "languageQID": "Q13216",
+        "languageLabel": "Zhuang",
+        "languageDescription": "any of various Tai languages used by the Zhuang people",
+        "code": "za"
+    },
+    {
+        "languageQID": "Q237409",
+        "languageLabel": "Zeelandic",
+        "languageDescription": "language or collection of related dialects spoken on and around the Zeelandic islands",
+        "code": "zea"
+    },
+    {
+        "languageQID": "Q7598268",
+        "languageLabel": "Standard Moroccan Amazigh",
+        "languageDescription": "standardised form of Amazigh language of Morocco (including all regional accents), written in Tifinagh alphabet",
+        "code": "zgh"
+    },
+    {
+        "languageQID": "Q7850",
+        "languageLabel": "Chinese",
+        "languageDescription": "language group of the Sinitic languages",
+        "code": "zh"
+    },
+    {
+        "languageQID": "Q24841726",
+        "languageLabel": "Putonghua",
+        "languageDescription": "version of Modern Standard Chinese used in People's Republic of China, which contains  few differences with Standard Chinese used in Taiwan (Guoyu)",
+        "code": "zh-cn"
+    },
+    {
+        "languageQID": "Q13414913",
+        "languageLabel": "Simplified Chinese",
+        "languageDescription": "written Chinese language using simplified set of Chinese characters, used in People's Republic of China, Singapore, Malaysia",
+        "code": "zh-hans"
+    },
+    {
+        "languageQID": "Q18130932",
+        "languageLabel": "Traditional Chinese",
+        "languageDescription": "written Chinese language using traditional set of Chinese characters, used in Taiwan, Hong Kong and Macau",
+        "code": "zh-hant"
+    },
+    {
+        "languageQID": "Q100148307",
+        "languageLabel": "Chinese (Hong Kong)",
+        "languageDescription": "language variant of Chinese in Hong Kong with traditional Chinese characters",
+        "code": "zh-hk"
+    },
+    {
+        "languageQID": "Q36495",
+        "languageLabel": "Southern Min",
+        "languageDescription": "branch of the Min Chinese language",
+        "code": "zh-min-nan"
+    },
+    {
+        "languageQID": "Q64427357",
+        "languageLabel": "Chinese in Macau",
+        "languageDescription": "local variant of Chinese language",
+        "code": "zh-mo"
+    },
+    {
+        "languageQID": "Q13646143",
+        "languageLabel": "Malaysian Mandarin",
+        "languageDescription": "colloquial dialect of Standard Mandarin Chinese used in Malaysia",
+        "code": "zh-my"
+    },
+    {
+        "languageQID": "Q1048980",
+        "languageLabel": "Singaporean Mandarin",
+        "languageDescription": "Chinese dialect spoken in Singapore",
+        "code": "zh-sg"
+    },
+    {
+        "languageQID": "Q4380827",
+        "languageLabel": "Mandarin with Taiwan Hokkien accent",
+        "languageDescription": "a variety of Mandarin Chinese spoken in Taiwan, influenced by Taiwanese Hokkien, Japanese, and local culture",
+        "code": "zh-tw"
+    },
+    {
+        "languageQID": "Q262828",
+        "languageLabel": "Standard Taiwanese Mandarin",
+        "languageDescription": "variety of Modern Standard Chinese serving as the official language of the Republic of China (Taiwan)",
+        "code": "zh-tw"
+    },
+    {
+        "languageQID": "Q9186",
+        "languageLabel": "Cantonese",
+        "languageDescription": "variety of Yue Chinese spoken in Guangzhou, Hong Kong, and Macau",
+        "code": "zh-yue"
+    },
+    {
+        "languageQID": "Q7033959",
+        "languageLabel": "Yue Chinese",
+        "languageDescription": "primary branch of Chinese spoken in southern China",
+        "code": "zh-yue"
+    },
+    {
+        "languageQID": "Q123474569",
+        "languageLabel": "Standard Malay",
+        "languageDescription": "the standard variety of Malay language",
+        "code": "zsm"
+    },
+    {
+        "languageQID": "Q10179",
+        "languageLabel": "Zulu",
+        "languageDescription": "Nguni language of eastern South Africa and neighbouring countries",
+        "code": "zu"
+    },
+    {
+        "languageQID": "Q10188",
+        "languageLabel": "Zuni",
+        "languageDescription": "language of the Zuni people",
+        "code": "zun"
+    },
+    {
+        "languageQID": "Q22282939",
+        "languageLabel": "no linguistic content",
+        "languageDescription": "special language code",
+        "code": "zxx"
+    }
+]

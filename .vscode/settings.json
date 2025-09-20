@@ -1,0 +1,5 @@
+{
+    "python.analysis.autoImportCompletions": true,
+    "autoDocstring.docstringFormat": "numpy",
+    "licenser.disableAutoHeaderInsertion": true,
+}
