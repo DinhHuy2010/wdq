@@ -11,14 +11,10 @@ class _BaseWikidataLD(Mapping[WikidataLanguageCode, str]):
         self._entity_id = entity_id
 
     def __getitem__(self, key: WikidataLanguageCode) -> str:
-        try:
-            return self._raw[key]
-        except KeyError as err:
-            try:
-                # Try to fall back to the "mul" (multiple languages) label if available
-                return self._raw["mul"]
-            except KeyError:
-                raise err from None
+        lang, label = self.default(raise_error=False)
+        if lang is None:
+            raise KeyError(key)
+        return label
 
     def __iter__(self) -> Iterator[WikidataLanguageCode]:
         return iter(self._raw)
@@ -27,19 +23,27 @@ class _BaseWikidataLD(Mapping[WikidataLanguageCode, str]):
         return len(self._raw)
 
     def __repr__(self) -> str:
-        mul = self.default()
+        lang, label = self.default()
         header = f"Wikidata {self._entity_id}"
-        return f"<{header}{f' ({mul!r})'}: {len(self._raw)} {self._unit}(s) in {len(self._raw)} language(s)>"
+        return f"<{header}{f' ({label!r} ({lang}))'}: {len(self._raw)} {self._unit}(s) in {len(self._raw)} language(s)>"
 
-    def default(self, fallback_chain: list[WikidataLanguageCode] | None = None) -> str:
+    def default(
+        self,
+        fallback_chain: list[WikidataLanguageCode] | None = None,
+        raise_error: bool = False,
+    ) -> tuple[WikidataLanguageCode | None, str]:
         if fallback_chain is None:
             fallback_chain = ["mul", "en"]
         for lang in fallback_chain:
             try:
-                return self._raw[lang]
+                return lang, self._raw[lang]
             except KeyError:
                 continue
-        return self._entity_id
+        if raise_error:
+            raise KeyError(
+                f"No {self._unit} found in fallback chain {fallback_chain!r}"
+            )
+        return None, self._entity_id
 
 
 class WikidataLabels(_BaseWikidataLD):
@@ -56,14 +60,7 @@ class WikidataAliases(Mapping[WikidataLanguageCode, set[str]]):
         self._entity_id = entity_id
 
     def __getitem__(self, key: WikidataLanguageCode) -> set[str]:
-        try:
-            return set(self._raw[key])
-        except KeyError as err:
-            try:
-                # Try to fall back to the "mul" (multiple languages) aliases if available
-                return set(self._raw["mul"])
-            except KeyError:
-                raise err from None
+        return self.default([key, "mul"])
 
     def __iter__(self) -> Iterator[WikidataLanguageCode]:
         return iter(self._raw)
@@ -80,7 +77,7 @@ class WikidataAliases(Mapping[WikidataLanguageCode, set[str]]):
         for lang in fallback_chain:
             union.update(self._raw.get(lang, set()))
         return union
-    
+
     def all(self) -> set[str]:
         """Get all aliases in all languages."""
         union: set[str] = set()
