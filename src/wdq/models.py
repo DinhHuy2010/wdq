@@ -1,7 +1,10 @@
+from abc import ABC
+from builtins import property as pyproperty
 from collections.abc import Iterator, Mapping
 from dataclasses import dataclass
 from enum import Enum
 from typing import Any
+
 from wdq.languages.literals import WikidataLanguageCode
 from wdq.sites import WikidataConnectedGroups, WikidataConnectedSite, identify_group
 
@@ -160,3 +163,239 @@ class WikidataSitelinks(Mapping[WikidataConnectedSite, WikidataSitelink]):
 def make_sitelinks(raw: Any, item: str) -> WikidataSitelinks:
     sitelinks = {site: WikidataSitelink.from_raw(data) for site, data in raw.items()}
     return WikidataSitelinks(sitelinks, item)
+
+
+class WikidataStatementRank(Enum):
+    """Rank of a Wikidata statement."""
+
+    PREFERRED = "preferred"
+    NORMAL = "normal"
+    DEPRECATED = "deprecated"
+
+
+@dataclass
+class WikidataPropertyReference:
+    id: str
+    data_type: str
+
+    def resolve(self) -> "WikidataProperty":
+        from wdq import property as fetch_property
+
+        return fetch_property(self.id)
+
+
+class BaseWikidataStatement(ABC):
+    @pyproperty
+    def property(self) -> WikidataPropertyReference:
+        raise NotImplementedError("This entity type does not implement property()")
+
+    @pyproperty
+    def value(self) -> Any:
+        raise NotImplementedError("This entity type does not implement value()")
+
+
+class WikidataQualifier(BaseWikidataStatement):
+    def __init__(self, data: Any):
+        self._raw = data
+
+    @pyproperty
+    def property(self) -> WikidataPropertyReference:
+        prop = self._raw["property"]
+        return WikidataPropertyReference(id=prop["id"], data_type=prop["data_type"])
+
+    @pyproperty
+    def value(self) -> "BaseWikidataValue":
+        return _resolve_wikidata_value(self.property, self._raw["value"])
+
+
+class WikidataReferencePart(BaseWikidataStatement):
+    def __init__(self, data: Any):
+        self._raw = data
+
+    @pyproperty
+    def property(self) -> WikidataPropertyReference:
+        prop = self._raw["property"]
+        return WikidataPropertyReference(id=prop["id"], data_type=prop["data_type"])
+
+    @pyproperty
+    def value(self) -> "BaseWikidataValue":
+        return _resolve_wikidata_value(self.property, self._raw["value"])
+
+
+class WikidataReference:
+    def __init__(self, data: Any):
+        self._raw = data
+
+    @property
+    def hash(self) -> str:
+        return self._raw["hash"]
+
+    @property
+    def parts(self) -> list[WikidataReferencePart]:
+        return [WikidataReferencePart(data) for data in self._raw.get("parts", [])]
+
+
+class BaseWikidataValue:
+    def __init__(self, data, type="unknown"):
+        self._raw = data
+        self._type = type
+
+    @property
+    def type(self) -> str:
+        return self._type
+
+    @property
+    def raw_content(self) -> Any:
+        return self._raw["content"]
+
+
+class WikidataValue(BaseWikidataValue): ...
+
+
+class WikidataSomeValue(BaseWikidataValue): ...
+
+
+class WikidataNoValue(BaseWikidataValue): ...
+
+
+class WikidataItemValue(BaseWikidataValue):
+    @property
+    def id(self) -> str:
+        return self._raw["content"]
+
+    def resolve(self) -> "WikidataItem":
+        from wdq import item as fetch_item
+
+        return fetch_item(self.id)
+
+
+class WikidataExternalIdentifierValue(BaseWikidataValue):
+    def __init__(self, data, prop, type="unknown"):
+        super().__init__(data, type)
+        self._prop = prop
+
+    @property
+    def id(self) -> str:
+        return self._raw["content"]
+
+    @property
+    def property(self) -> WikidataPropertyReference:
+        return self._prop
+
+
+def _resolve_wikidata_value(
+    prop: WikidataPropertyReference, value: Any
+) -> BaseWikidataValue:
+    if value["type"] == "somevalue":
+        return WikidataSomeValue(value, "somevalue")
+    elif value["type"] == "novalue":
+        return WikidataNoValue(value, "novalue")
+
+    if prop.data_type == "wikibase-item":
+        return WikidataItemValue(value, "wikibase-item")
+    if prop.data_type == "external-id":
+        return WikidataExternalIdentifierValue(value, prop, "external-id")
+    return WikidataValue(value, prop.data_type)
+
+
+class WikidataStatement(BaseWikidataStatement):
+    def __init__(self, data: Any):
+        self._raw = data
+
+    @pyproperty
+    def id(self) -> str:
+        return self._raw["id"]
+
+    @pyproperty
+    def rank(self) -> WikidataStatementRank:
+        return WikidataStatementRank(self._raw.get("rank", "normal"))
+
+    @pyproperty
+    def property(self) -> WikidataPropertyReference:
+        prop = self._raw["property"]
+        return WikidataPropertyReference(id=prop["id"], data_type=prop["data_type"])
+
+    @pyproperty
+    def value(self) -> BaseWikidataValue:
+        return _resolve_wikidata_value(self.property, self._raw["value"])
+
+    @pyproperty
+    def qualifiers(self) -> list[WikidataQualifier]:
+        return [WikidataQualifier(data) for data in self._raw.get("qualifiers", [])]
+
+    @pyproperty
+    def references(self) -> list[WikidataReference]:
+        return [WikidataReference(data) for data in self._raw.get("references", [])]
+
+
+class WikidataStatements:
+    def __init__(self, data: Any, qid: str):
+        self._raw = data
+        self._qid = qid
+
+    def _filter_by_rank(
+        self,
+        statements: list[WikidataStatement],
+        ranks: list[WikidataStatementRank] | None,
+    ) -> list[WikidataStatement]:
+        return [s for s in statements if ranks is None or s.rank in ranks]
+
+    def property(
+        self, property_id: str, *, ranks: list[WikidataStatementRank] | None = None
+    ) -> list[WikidataStatement]:
+        statements = self._raw.get(property_id, [])
+        statements = [WikidataStatement(statement) for statement in statements]
+        return self._filter_by_rank(statements, ranks)
+
+    def all(
+        self, *, ranks: list[WikidataStatementRank] | None = None
+    ) -> list[WikidataStatement]:
+        statements = [
+            WikidataStatement(statement) for s in self._raw.values() for statement in s
+        ]
+        return self._filter_by_rank(statements, ranks)
+
+    def __len__(self) -> int:
+        return sum(len(s) for s in self._raw.values())
+
+    def __repr__(self):
+        total_statements = len(self)
+        unique_properties = len(self._raw)
+        return f"<Wikidata {self._qid}: {total_statements} statement(s) across {unique_properties} unique property(ies)>"
+
+
+class WikidataEntity:
+    def __init__(self, data: Any):
+        self._raw = data
+
+    @property
+    def id(self) -> str:
+        return self._raw["id"]
+
+    @property
+    def labels(self) -> WikidataLabels:
+        return WikidataLabels(self._raw.get("labels", {}), self.id)
+
+    @property
+    def descriptions(self) -> WikidataDescriptions:
+        return WikidataDescriptions(self._raw.get("descriptions", {}), self.id)
+
+    @property
+    def aliases(self) -> WikidataAliases:
+        return WikidataAliases(self._raw.get("aliases", {}), self.id)
+
+    @property
+    def statements(self) -> WikidataStatements:
+        return WikidataStatements(self._raw.get("statements", {}), self.id)
+
+
+class WikidataItem(WikidataEntity):
+    @property
+    def sitelinks(self) -> WikidataSitelinks:
+        return make_sitelinks(self._raw.get("sitelinks", {}), self.id)
+
+
+class WikidataProperty(WikidataEntity):
+    @property
+    def type(self) -> str:
+        return self._raw["data_type"]
